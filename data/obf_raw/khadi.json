@@ -1,0 +1,64 @@
+[
+  {
+    "brands": "Khadi",
+    "code": "4260672890132",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/426/067/289/0132/front_fr.7.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampoing Neem Balance",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Khadi",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-dyes"
+    ],
+    "code": "4260378049285",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/426/037/804/9285/front_fr.4.400.jpg",
+    "ingredients_text": "Indigofera tinctoria leaf powder, Lawsonia inermis leaf powder, Emblica officinalis fruit powder, Eclipta alba leaf powder, Azadirachta indica leaf powder",
+    "lang": "fr",
+    "product_name": "Noisette naturel ch\u00e2tain fonc\u00e9",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Khadi",
+    "code": "8906026910359",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Shampoing souchet",
+    "quantity": ""
+  },
+  {
+    "brands": "Khadi",
+    "code": "4260378040015",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/426/037/804/0015/front_es.3.400.jpg",
+    "lang": "es",
+    "product_name": "DUNKELBLOND",
+    "quantity": "100g"
+  },
+  {
+    "brands": "khadi",
+    "categories_tags": [
+      "fr:Mati\u00e8res grasses"
+    ],
+    "code": "4260378040466",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "seed Oil (Seba OJ)&quot; ,B\u00ceasstca extract(eacha) galmus)f Cit(us edica LlmpriLf Bel Citrus Auraotiumoutcis P\u00e8\u00e8lOiftOrahge Zimt Pogostemon Cablinvas\u00e9 ttal oil(indisches Patchuli)\u00f2RUbia Copticu!n fruit extract Eugenol'&lt;l$sinnamal\u2022 Cinamyl Alcohol",
+    "lang": "fr",
+    "product_name": "Huile De Soin Anti Cellulite Aux",
+    "quantity": ""
+  }
+]

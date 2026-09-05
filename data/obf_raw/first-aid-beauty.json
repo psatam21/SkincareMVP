@@ -1,0 +1,50 @@
+[
+  {
+    "brands": "First Aid Beauty",
+    "code": "0852575005849",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Ultra Repair Cream"
+  },
+  {
+    "brands": "First Aid Beauty",
+    "categories_tags": [],
+    "code": "0851939002586",
+    "countries_tags": [
+      "en:iceland"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Ultra Repair Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "First Aid Beauty",
+    "code": "0851939002791",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.400.jpg",
+    "ingredients_text": "Active Ingredient: Colloidal Oatmeal 0.50%.",
+    "lang": "en",
+    "product_name": "Ultra Repair Cream"
+  },
+  {
+    "brands": "First Aid Beauty",
+    "code": "0815517026746",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.400.jpg",
+    "ingredients_text": "Aqua / Water / Eau, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Glycerin, Acrylates/Steareth-20 Methacrylate Copolymer, Peg-120 Methyl Glucose Dioleate, Dipropylene Glycol, Camellia Sinensis Leaf Extract, Chrysanthemum Parthenium (Feverfew) Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Bisabolol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Allantoin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Llite, Caprylyl Glycol, Potassium Hydroxide, Disodium Edta, Mica, Tetrasodium Edta, Phenoxyethanol, Ci 77491 (Iron Oxide).",
+    "lang": "en",
+    "product_name": "Pure Skin Deep Cleanser with Red Clay"
+  }
+]

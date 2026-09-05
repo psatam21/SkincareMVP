@@ -1,0 +1,652 @@
+[
+  {
+    "brands": "himalaya",
+    "code": "8901138512026",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/2026/front_ar.6.400.jpg",
+    "lang": "fr",
+    "product_name": "1930"
+  },
+  {
+    "brands": "himalaya",
+    "categories_tags": [
+      "en:face",
+      "en:lip-balms"
+    ],
+    "code": "8901138509231",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/9231/front_en.18.400.jpg",
+    "ingredients_text": "OILS: Eranda (Ricinus communis)* Sd. 10 mg, Garijara (Daucus carota) Sd. 10 mg, Godhuma (Triticum sativum) Gr. 10 mg, Hyamaraka (Wrightia tinctoria)* Lf. 10 mg, Narikela (Cocos nucifera) Endos. 10 mg.",
+    "lang": "en",
+    "product_name": "Lip Balm",
+    "quantity": "10g"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:Baby powder"
+    ],
+    "code": "8901138010812",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/801/0812/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Baby Powder",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:face",
+      "en:face-scrubs"
+    ],
+    "code": "8901138821913",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/882/1913/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Neem Face Scrub",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138713874",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/871/3874/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Herbal intensive moisturing cream",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:Face wash",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138511784",
+    "countries_tags": [
+      "en:morocco",
+      "en:saudi-arabia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/1784/front_en.24.400.jpg",
+    "ingredients_text": "Aqua, Melia Azadirachta Leaf Extract, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cocoyl Glutamate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Curcuma Longa (Turmeric) Rhizome Extract, Sodium Hydroxide, Parfum, Sodium Metabisulfite, Citric Acid, Disodium EDTA, Tocopheryl Acetate, Hexyl Cinnamal",
+    "lang": "en",
+    "product_name": "Himalaya",
+    "quantity": "150 ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138825614",
+    "countries_tags": [
+      "en:morocco",
+      "en:netherlands",
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/882/5614/front_en.10.400.jpg",
+    "ingredients_text": "8901138 825614 MED UAE 25001890",
+    "lang": "nl",
+    "product_name": "Mint fresh herbal toothpaste",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "code": "6291107220178",
+    "countries_tags": [
+      "en:turkey"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/629/110/722/0178/front_tr.3.400.jpg",
+    "lang": "tr",
+    "product_name": "Siyah noktalara kars\u0131 krem",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "HIMALAYA",
+    "code": "8901138500719",
+    "countries_tags": [
+      "en:india",
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/0719/front_en.3.400.jpg",
+    "lang": "en",
+    "quantity": "60tab"
+  },
+  {
+    "brands": "HIMALAYA",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138512187",
+    "countries_tags": [
+      "en:romania"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/2187/front_en.9.400.jpg",
+    "ingredients_text": "Nimba (Azadirachta indica) leaf extract, Haridra (Curcuma longa) rhizome extract, Phenoxyethanol, Methylchloroisothiazolinone, Methylisothiazolinone, Brilliant Blue FCF, Tartrazine Yellow",
+    "lang": "en",
+    "product_name": "HIMALAYA NEEM.FACE WASH 50ML",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "HIMALAYA",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138511739",
+    "countries_tags": [
+      "en:india"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/1739/front_en.12.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "HIMALAYA BABY.MASSAGE OIL 100ML",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [],
+    "code": "2000002946243",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/200/000/294/6243/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalaya safran+charcoal mask",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [],
+    "code": "2272105224539",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/227/210/522/4539/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Detoxifying Charcoal Face Wash",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138511494",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/1494/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "baby cream",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:hygiene",
+      "en:incorrect-product-type",
+      "en:toothpastes",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0605069064835",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/060/506/906/4835/front_en.6.400.jpg",
+    "ingredients_text": "Xylitol, Glycerin (from vegetable oils), Water (aqua), Calcium Carbonate, Hydrated Silica, Lauryl Glucoside (from coconut oil), Salvadora Persica (peelu) Stem Extract, Stevia Rebaudiana (stevia) Leaf/Stem Extract, Xanthan Gum, Flavor (from essential oils & botanicals), Sodium Bicarbonate, Sodium Cocoyl Glutamate & Disodium Cocoyl Glutamate (from amino acids and vegetable oils), Menthol*, Zinc Citrate, Sodium Chloride, Glycyrrhiza Glabra (Licorice) Root Extract, Thymol, Melia Azadirachta (neem) Leaf Extract*, Bromelain (from pineapple), Punica Granatum (pomegranate) Fruit Extract*, Embelia Ribes (vidanga) Fruit Extract*, Terminalia Chebula (chebulic myrobalan) Fruit Extract*, Terminalia Bellerica (belleric myrobalan) Fruit Extract*, Phyllanthus Emblica (amla) Fruit Extract*, Acacia Arabica (Indian gum arabic tree) Stem Bark Extract*, Papain (from papaya)",
+    "lang": "en",
+    "product_name": "Xylitol Toothpaste",
+    "quantity": "4.0 oz"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138500481",
+    "countries_tags": [
+      "en:romania"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/0481/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Foot care Cream",
+    "quantity": "75 gram"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [],
+    "code": "8901138831738",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/1738/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "baby soap",
+    "quantity": "300g"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [],
+    "code": "8901138825591",
+    "countries_tags": [
+      "en:morocco",
+      "en:russia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/882/5591/front_es.12.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "Sparkly White Herbal Toothpaste",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:hygiene",
+      "en:toothpastes"
+    ],
+    "code": "8901138836092",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/6092/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Himalaya complete care toothpaste"
+  },
+  {
+    "brands": "HIMALAYA",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts",
+      "ru:\u0443\u043c\u044b\u0432\u0430\u0448\u043a\u0430"
+    ],
+    "code": "8901138512811",
+    "countries_tags": [
+      "en:kazakhstan"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/2811/front_en.14.400.jpg",
+    "ingredients_text": "\u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u060c\u0645\u0627\u0621 \u0643\u0628\u0631\u064a\u062a\u0627\u062a \u0627\u0644\u0623\u0645\u0648\u0646\u064a\u0648\u0645 \u0644\u0648\u0631\u064a\u0644\u060c \u062e\u0644\u0627\u0635\u0629 \u0623\u0648\u0631\u0627\u0642 \u0627\u0644\u0646\u064a\u0645\u060c \u062f\u064a\u0633\u064a\u0644 \u062c\u0644\u0648\u0643\u0648\u0633\u064a\u062f\u060c \u0628\u06cc\u062a\u0627\u06cc\u0646 \u0628\u0631\u0648\u0628\u06cc\u0644 \u06a9\u0648\u06a9\u0627\u0645\u06cc\u062f\u060c \u062c\u0644\u0633\u0631\u064a\u0646\u060c \u0628\u0648\u0644\u064a\u0633\u0648\u0631\u0628\u0627\u062a \u0662\u0660\u060c \u0641\u064a\u0646\u0648\u0643\u0633\u064a\u062b\u0627\u0646\u0648\u0644\u060c \u0645\u0633\u062a\u062e\u0644\u0635 \u062c\u0630\u0648\u0631 \u0627\u0644\u0643\u0631\u0643\u0645\u060c \u062e\u0644\u0627\u0635\u0629 \u062c\u0630\u0648\u0631 \u0646\u062c\u064a\u0644 \u0627\u0644\u0647\u0646\u062f\u060c \u0628\u0646\u0632\u0648\u0627\u062a \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645\u060c \u0639\u0637\u0631\u060c \u0625\u064a\u062b\u064a\u0644 \u0647\u0643\u0633\u064a\u0644 \u062c\u0644\u0633\u0631\u064a\u0646\u060c \u062b\u0627\u0646\u064a \u0625\u064a\u062f\u064a\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645\u060c \u062d\u0645\u0636 \u0627\u0644\u0633\u062a\u0631\u064a\u0643\u060c \u0628\u064a \u0625\u062a\u0634 \u062a\u064a\u060c \u0633\u064a \u0661\u0669\u0661\u0664\u0660\u060c \u0633\u064a \u0664\u0662\u0660\u0661\u0660\u060c \u0647\u064a\u0643\u0633\u064a\u0644 \u0633\u064a\u0646\u0627 \u0645\u0627\u0644.",
+    "lang": "ru",
+    "product_name": "Purifying Neem Foaming Face Wash",
+    "quantity": "150ml"
+  },
+  {
+    "brands": "himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "26365077",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/002/636/5077/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "",
+    "quantity": "200"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138711962",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/871/1962/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalaya neem & turmeric soap",
+    "quantity": "lays"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138835330",
+    "countries_tags": [
+      "en:united-arab-emirates"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/5330/front_en.6.400.jpg",
+    "lang": "en",
+    "product_name": "Pimple clear n\u00e9e face wash",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138831059",
+    "countries_tags": [
+      "en:united-arab-emirates"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/1059/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Intense oil clear lemon face wash",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138845001",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/884/5001/front_en.9.400.jpg",
+    "lang": "en",
+    "product_name": "Himalaya Diaper rash cream",
+    "quantity": "100g"
+  },
+  {
+    "brands": "himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138848477",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/884/8477/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "kesar face gel",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138513627",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/3627/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Neem face wash",
+    "quantity": "15ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138508142",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/8142/front_en.8.400.jpg",
+    "lang": "en",
+    "product_name": "Body lotion",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138509217",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/9217/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Himalaya Oil Clear Lemon Face Wash",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Himalaya",
+    "code": "8901138835286",
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/5286/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Nourishing skin cream",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138511463",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/851/1463/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalaya baby lotion",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:hygiene",
+      "en:mouthwash",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138847920",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/884/7920/front_en.5.400.jpg",
+    "ingredients_text": "Aqua, Propylene Glycol, Glycerin, Sorbitol, PEG-40 Hydrogenated Castor ON, Sodium Benzoate, Benzyl Alcohol, Flavor, Citric Acid, Ethyl Menthane Cartocaramide, Menthol, Sodium Fluoride, Cetylpyridinium Chloride, Sodium iculum Vulgare Fennel) Fruit OiI, CI 19140, CI 42053",
+    "lang": "en",
+    "product_name": "Saunf Mouthwash",
+    "quantity": "215ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-beauty-products",
+      "en:open-products-facts",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138836955",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/6955/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalaya Extra Moisturizing Baby Soap",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-beauty-products",
+      "en:open-products-facts",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138835163",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/883/5163/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalaya Moisturizing Aloe Vera Facial Wipes",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-beauty-products",
+      "en:open-products-facts",
+      "en:non-food-products"
+    ],
+    "code": "8901138847326",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/884/7326/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Pure Hands Orange",
+    "quantity": "85 ml"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-beauty-products",
+      "en:open-products-facts",
+      "en:non-food-products"
+    ],
+    "code": "8901138500443",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/0443/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "cold balm rapid action",
+    "quantity": "45 g"
+  },
+  {
+    "brands": "Himalaya",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901138846411",
+    "countries_tags": [
+      "en:india"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/884/6411/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Baby Lotion",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "code": "8901138815448",
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/881/5448/front_fr.8.400.jpg",
+    "lang": "fr",
+    "product_name": "Foot care cream",
+    "quantity": "50g"
+  },
+  {
+    "brands": "Himalaya",
+    "code": "8901138818258",
+    "countries_tags": [
+      "en:mongolia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/881/8258/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "hand lotion",
+    "quantity": ""
+  },
+  {
+    "brands": "Himalaya",
+    "code": "6291107220994",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/629/110/722/0994/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampooing 2en1",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Himalaya",
+    "code": "3806619137802",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Neem & Pomegranate toothpaste"
+  },
+  {
+    "brands": "Himalaya",
+    "code": "8901138509033",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/113/850/9033/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Acne n pimple cream",
+    "quantity": "1"
+  }
+]

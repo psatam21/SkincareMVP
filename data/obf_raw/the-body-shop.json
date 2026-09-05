@@ -1,0 +1,1655 @@
+[
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:Moisturiser"
+    ],
+    "code": "5028197252588",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/725/2588/front_en.15.400.jpg",
+    "ingredients_text": "98% INGREDIENTS OF NATURAL ORIGIN Made with hemp seed oil from France",
+    "lang": "en",
+    "product_name": "Rescuing Face Protector",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:shaving",
+      "en:aftershaves",
+      "en:aftershave-balms"
+    ],
+    "code": "5028197183585",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Calming post-shave water-gel",
+    "quantity": "160ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197941666",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/1666/front_en.5.400.jpg",
+    "lang": "en",
+    "product_name": "Body butter almond and milk"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197194024",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/719/4024/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Body butter shea",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197269623",
+    "countries_tags": [
+      "en:ireland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/726/9623/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Vitamin E Moisturising Toner"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197939359",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "id",
+    "product_name": "Maca Root & Aloe Deodorant"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197376895",
+    "countries_tags": [
+      "en:hong-kong"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/737/6895/front_en.3.400.jpg",
+    "ingredients_text": "Water, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Cetearyl Alcohol, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Polyglyceryl-3 Distearate, Cetyl Alcohol, Triethyl Citrate, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Moringa Oleifera Seed Oil, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Sesamum Indicum Seed Oil/Sesamum indicum (Sesame) Seed Oil, Sodium Stearoyl Glutamate, Dimethicone, Glyceryl Stearate Citrate, Xanthan Gum, Linalool, Tocopherol, Tetramethyl Acetyloctahydronaphthalenes, Benzyl Alcohol, Citric Acid, Linalyl Acetate, Geraniol, Rose Ketones, Eugenol, CI 19140/Yellow 5",
+    "lang": "en",
+    "product_name": "Moringa Body Butter",
+    "quantity": "8 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197869557",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/786/9557/front_fr.8.400.jpg",
+    "lang": "fr",
+    "product_name": "The Body Shop Shea Hand Cream 30ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197539719",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/753/9719/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Himalayan charcoal",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197834609",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Shower Gel"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197957018",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Mango Shower Gel"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197479558",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "lang": "en",
+    "product_name": "Coconut Shower Cream"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197540586",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Mango Shower Gel"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197259884",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "lang": "en",
+    "product_name": "Satsuma Shower Gel 60ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197973759",
+    "countries_tags": [
+      "en:armenia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/797/3759/front_fr.4.400.jpg",
+    "lang": "fr",
+    "product_name": "body shop"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197932367",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "lang": "en",
+    "product_name": "Camomile Cleansing Butter"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197100919",
+    "countries_tags": [
+      "en:chile"
+    ],
+    "lang": "en",
+    "product_name": "White Musk"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams"
+    ],
+    "code": "5028197274214",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/727/4214/front_en.3.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Glycerin, Behenyl Alcohol, Beheneth-25, Coco-Caprylate/Caprate, Butyrospermum Parkii Butter/ Butyrospermum Parkii (Shea) Butter, Phenoxyethanol, Parfum/Fragrance, Caprylyl Glycol, Carbomer, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Coumarin, Pinus Sylvestris Bud Extract, Citric Acid, Sodium Benzoate, Potassium Sorbate, CI 19140/Yellow 5, CI 42090/Blue 1.",
+    "lang": "en",
+    "product_name": "Body lotion to oil",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197129439",
+    "countries_tags": [
+      "en:finland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/712/9439/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Body Butter Almon Milk"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197766627",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Pink Grapefruit Soap Bar"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197519940",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/751/9940/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Vitamin E Night Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197766634",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Soap"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197943448",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/3448/front_es.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197961541",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Fuji Green Tea Soap"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197941734",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/1734/front_en.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "British Rose Exfoliating Gel Body Scrub",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197941505",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/1505/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Beurre corps apaisant et r\u00e9parateur lait d'amandes et miel",
+    "quantity": "200 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197555795",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "30ml hand cream"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197969615",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Hand Cream Mango"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197870409",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "en",
+    "product_name": "Hand cream"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197919016",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Peppermint Candy Cane Fragranced Hand Cream"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:incorrect-product-type",
+      "en:hand-creams",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197546427",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Hand & Nail Cream"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197555085",
+    "countries_tags": [
+      "en:bulgaria"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/5085/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Body butter"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197619428",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "The Body Shop Ginger Shampoo"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197978839",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Ginger Antidandruff Shampoo"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197252564",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/725/2564/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Hemp rescuing body butter"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197982294",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/798/2294/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Green tea & lemon mattifying moisturiser"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197345181",
+    "countries_tags": [
+      "en:norway"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/734/5181/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Body Lotion"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197891749",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/789/1749/front_en.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Body yogurt",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197127466",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/712/7466/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Moisturising &. Cleansing  Hang Hr\u00f6",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:Bath and body"
+    ],
+    "code": "5028197249298",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/724/9298/front_en.4.400.jpg",
+    "ingredients_text": "Aqua,sodium Lauren sulfate ,glycerin, decyl, glucose ,misalignment betaine, coco betain, sodium, chloride, Citric acid ,fragrance,sodium ,candidate gluconater ,benzoate, limonene,soduim glucose ,citrus grandis fruit water/citrus grandis (grapefruit) fruit water, linalool, aloe barbadenis lead juice powder, citral, crematorium benzoate, CL 14700/red 4, CL 17200/red 33.",
+    "lang": "en",
+    "product_name": "pink grapefruit shower gel",
+    "quantity": "60ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:moisturizer"
+    ],
+    "code": "5028197557904",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/7904/front_en.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Glycerin, Cyclopentasiloxane, Orbignya Oleifera Seed Oil, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Cyclohexasiloxane, Cera Alba/Beeswax/Cire d'abeille, Lanolin Alcohol, Phenoxyethanol, Parfum/Fragrance, Methylparaben, Xanthan Gum, Propylparaben, Benzyl Alcohol, Disodium EDTA, Linalool, Coumarin, Alpha-Isomethyl Ionone, Sodium Hydroxide, Limonene, Citric Acid, Caramel, CI 19140/Yellow 5.",
+    "lang": "en",
+    "product_name": "Shea Nourishing Body Butter",
+    "quantity": "192g"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197975173",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "en",
+    "product_name": "Deodorant"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197252472",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/725/2472/front_fr.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Butyrospermum Parkii (Shea) Butter, Triethyl Citrate, Glycerin, Canabis Sativa Seed Oil, Polyglyceryl-3 Distearate, Cetearyl Alcohol, Thebroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Butter, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Glyceryl Stearate, Prunus Amygdalus Dulcis Oil/Amygdalus Dulcis (Sweet Almond)   Oil, Phenoxyethand, Dimethincone,  Sodium Stearoyl Glutamate, Parfum/Fragrance, Capryly icone (Sesa Talc, CI 77288/Chromium Oxide Greens, CI 77492/Iron Oxides Glyceryl Stearate Citrate, Xanthan Gum, Tocopherol, Citric Iron Oxides, Cl 77499/Iron Oxides. 12 M 100% RECYC ALUMINIUM TUR ALU FR FRANCE ONLY ! SAAA Ref: 25247 MADE IN POLAND FABRIQU\u00c9 EN POLOGNE POUR/ ICADO EN POLONIA PARA 22 THE BODY SHOP INT'L LTD. LEHAMPTON, BNI7 6LS, UK. BODY SHOP BENELUX B.V. UWENVELDSEWEG 1, 1382 IV. SP. NETHERLANDS Buth-Na-Bodhaige, Inc., Wake Forest 27587, USA. Importado y CV by Fi\u00e9rcito Nacional 579 ribuido por: Cimarrones SA Miquel FOREVE \u0628\u0627\u0644\u0644\u064a\u0646\u064a\u0646 - Vegan PAD 227252 461820 S",
+    "lang": "fr",
+    "product_name": "Baume mains renfort protecteur",
+    "quantity": "30 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197272166",
+    "countries_tags": [
+      "en:czech-republic"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/727/2166/front_en.7.400.jpg",
+    "lang": "en",
+    "product_name": "",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197973735",
+    "countries_tags": [
+      "en:czech-republic"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/797/3735/front_en.5.400.jpg",
+    "lang": "en",
+    "product_name": "",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197941512",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/1512/front_en.9.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Hemp Hard-Working Foot Protector",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197749170",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/774/9170/front_fr.4.400.jpg",
+    "ingredients_text": "@Body Moisturiser.@Soin hydrata)t.pour le corps. @Feuchtigkeitspfleae f\u00fcr den Koroer. (U Bodycr\u00e8me. O Idratante Cor Hidratante Corporal.@Hidratante para Corpo.@Body hi uriser/fuktighe NO Body Kp\u00e9ga\u00fcjgaroc. Crem\u00e0 hidratant\u00e0 entru 028197 749170 &gt; pp 12 M MADE IN GERMANY FOR/FABRIOU\u00c9 EN ALLEMAGNE POUR , @ 2017THEBODYSHOPlNTLPLC BN17 6LS",
+    "lang": "fr",
+    "product_name": "Frosted plum body butter",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197850821",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/785/0821/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Hemp body butter",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197549671",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/754/9671/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Body Scrub",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197315146",
+    "countries_tags": [
+      "en:switzerland"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/731/5146/front_fr.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Smoky Poppy Seed Scrub",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197351052",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "en",
+    "product_name": "Coconut Milk Body Lotion"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197957780",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/795/7780/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Guarana and Coffee Energising Cleanser for Men",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5028197454937",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/745/4937/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Seife, Shea",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197557010",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/7010/front_de.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Tea Tree - Hand Wash",
+    "quantity": "275ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "5028197272456",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/727/2456/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Spiced Orange Shower Gel",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197171865",
+    "countries_tags": [
+      "en:belgium"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/717/1865/front_fr.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Wilderness Argan oil",
+    "quantity": "750 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "5028197248871",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/724/8871/front_en.4.400.jpg",
+    "ingredients_text": "aqua/water/eau, sodium laureth sulphate, glycerin, decal glucoside, cocamidopropyl betaine, coco-betaine, sodium chloride, citric acid, parfum/fragrance, sodium benzoate, limonene, sodium gluconate, citrus grandis fruit water/citric grand (grapefruit) fruit water, linalool, aloe barbadensis leaf juice powder, citric, denatonium benzoate, Cl 14700/Red 4, Cl 17200/Red 33.",
+    "lang": "en",
+    "product_name": "Zingy & Refreshing Pink Grapefruit Shower Gel",
+    "quantity": "750 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "5028197965211",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/796/5211/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Almond Milk & Honey Shower Cream",
+    "quantity": "60 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "5028197950781",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/795/0781/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Madagascaran Vanilla Flower Shower Gel",
+    "quantity": "60 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams"
+    ],
+    "code": "5028197316488",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/731/6488/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Strawberry Body Butter",
+    "quantity": "400 mL (384 g)"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams"
+    ],
+    "code": "5028197557911",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/7911/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Strawberry Softening Body Butter",
+    "quantity": "192 g; 200 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "5028197960186",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/796/0186/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Pink Grapefruit Shower Gel",
+    "quantity": "750 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-scrubs"
+    ],
+    "code": "5028197943103",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/3103/front_en.4.400.jpg",
+    "ingredients_text": "Pink grapefruit seed oil",
+    "lang": "en",
+    "product_name": "Pink Grapefruit Exfoliating Gel Body Scrub",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197786359",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "en",
+    "product_name": "Fuji Green Tea Refreshingly Hydrating Conditioner",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197785376",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "en",
+    "product_name": "Fuji Green Tea Shampoo",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197946708",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "en",
+    "product_name": "Fuji Green Tea Shower Gel",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197969875",
+    "countries_tags": [
+      "en:nigeria"
+    ],
+    "lang": "en",
+    "product_name": "Glow-protection lotion",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197302337",
+    "countries_tags": [
+      "en:nigeria"
+    ],
+    "lang": "en",
+    "product_name": "Tea tree facial wash",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-care"
+    ],
+    "code": "5028197868918",
+    "countries_tags": [
+      "en:iceland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/786/8918/front_en.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Propanediol, Hydroxyethylcellulo MADE IN Polysorbate 20, Glycerin, Phenoxyethanol, Caprylyl Glycol, Butylene Glycol, Pentyl PRODUC Glycol, Arginine, Lactic Acid, Salix Alba Bark Extract/Salix Alba (Willow) Bark Extra Panthenol, Sodium Hyaluronate, Glycine Soja Germ Extract, Triticum Vulgare Gem The Bou 2020 Extract/Triticum Vulgare (Wheat) Germ Extract, Trisodium Ethylenediamine Disuccinate 182 LV Hydroxyphenyl Propamidobenzoic Acid, Parfum/Fragrance, Sodium Hydroxide, Betua Dist B Alba Bark Extract, Epilobium Angustifolium Flower/Leaf/Stem Extract, Gluconolactone impor Linalool, Scutellaria Baicalensis Root Extract, Zingiber Officinale Root 0il/Zingiber Av.E Officinale (Ginger) Root Oil, Limonene, Sodium Benzoate, Citronellol, Citral, Eugenol Migu enzyl Alcohol, Geraniol, Ascorbyl Palmitate, Sodium Metabisulfite, Calcium Gluconate 0 de Ww",
+    "lang": "en",
+    "product_name": "ginger scalp serum",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197197568",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/719/7568/front_en.3.400.jpg",
+    "ingredients_text": "Water, Octyl Palmitate, Isohexadecane, Sorbitol, Dimethicone, Glycine Soja (Soybean) Oil, Sorbitan Stearate, Triticum Vulgare (Wheat) Germ Oil, Benzyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Butyrospermum Parkii (Shea Butter), Cetearyl Alcohol, Tocopheryl Acetate, Methylparaben, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Propylparaben, Sodium Hydroxide, Disodium EDTA, Citronellol, Alpha-Isomethyl Ionone, Linalool, Geraniol, Limonene, Citral, Eugenol, Farnesol.",
+    "lang": "en",
+    "product_name": "Vitamin E Gentle Facial Wash"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197269692",
+    "countries_tags": [
+      "en:norway"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/726/9692/front_en.9.400.jpg",
+    "lang": "en",
+    "product_name": "Aloe Calming Foaming Wash",
+    "quantity": "150ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197527204",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/752/7204/front_fr.7.400.jpg",
+    "lang": "fr",
+    "product_name": "Gel douche virgin mojito",
+    "quantity": "250ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197969417",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/796/9417/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "3in1 wash scrub mask",
+    "quantity": "125 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197457402",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/745/7402/front_fr.3.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Polyacrylate, Parfum/Fragrance, Cetyl Alcohol, Pentaerythrityl Distearate, Phenoxyethanol, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Orbignya Oleifera Seed Oil, Cocos Nucifera Oil/Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Myristamidopropyl PG-Dimonium Chloride Phosphate, Sodium Stearoyl Glutamate, Xanthan Gum, Disodium EDTA, Myristyl Alcohol, Stearyl Alcohol, Coumarin, Linalool, Limonene, Citric Acid, Sodium Chloride, Sodium Sulfate, Caramel, Cl 14700/Red 4.",
+    "lang": "fr",
+    "product_name": "cr\u00e8me pour les mains",
+    "quantity": "1"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "2000000099285",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/200/000/009/9285/front_en.4.400.jpg",
+    "ingredients_text": "Aqua, Cocamidopropyl Betaine, Polysorbate 20, Coco-Glucoside, PEG-40 Hydrogenated Castor Oil, Salix Alba Bark Extract, Sodium Chloride, Melaleuca Alternifolia Leaf Oil, Glycerin, Calophyllum Inophyllum Seed Oil, Myristamidopropyl Pg-Dimonium Chloride Phosphate, Pvp, p-Anisic Acid, Sodium Hydroxide, Menthol, Leptospermum Petersonii Oil, Citral, Limonene, Tocopherol, Citric Acid.",
+    "lang": "en",
+    "product_name": "Tea Tree skin clearing foaming cleanser",
+    "quantity": "1"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197943417",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/3417/front_fr.6.400.jpg",
+    "lang": "fr",
+    "product_name": "Nettoyant doux visage",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197755188",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/775/5188/front_fr.7.400.jpg",
+    "lang": "fr",
+    "product_name": "Eau de toilette White Musk",
+    "quantity": "60ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197946937",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/6937/front_fr.7.400.jpg",
+    "lang": "fr",
+    "product_name": "Pepins de raisin Serum brillance",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197869113",
+    "countries_tags": [
+      "en:norway"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/786/9113/front_en.6.400.jpg",
+    "lang": "en",
+    "product_name": "Almond Hand & Nail Manicure Cream",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197775766",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/777/5766/front_es.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197549930",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/754/9930/front_es.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Sodium Laureth Sulfate, Olea europaea/ Olive Seed Powder, Acrylates Copolymer, Lauryl Betaine, Glycerin, Propanediol, Hydrogenated Jojoba Oil, Pentylene Glycol, Phenoxyethanol, Sodium Chloride, Phenethyl Alcohol, Parfum/Fragrance, Sodium Hydroxide, Propylene Glycol, Luffa Cylindrica Fruit, Glyceryl Caprylate, Fucus Vesiculosus Extract, Disodium EDTA, Linalool, Benzyl Salicylate, Benzyl Alcohol, Citric Acid.",
+    "lang": "fr",
+    "product_name": "Pore-cleansing exfoliator",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197943257",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/3257/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Banane truly nourishing conditionner",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "de:Bodylotion"
+    ],
+    "code": "5028197555122",
+    "countries_tags": [
+      "en:austria"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/5122/front_en.9.400.jpg",
+    "ingredients_text": "NITTA9BSIO1-INGREDIENTS: Aqua/Water/Eau, Caprylic/Capric Triglyceride, Dnme Celearyl Alcohol, Elaeis Guineensis Oil/Elaeis Guineensis (Palm) Oil, Glycerin, Butyro Parki Butter/Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, C12-15 Alk el Honey/Miel, PEG-100 Stearate, Phenoxyethanol, Caprylyl Glycol, Prunus Amg OUFrunus Amygdalus Dulcis (Sweet Almond) Oil, Parfum/Fragrance, Alumin adtenylsuccinate, Carbomer, Disodium EDTA, Sodium Hydroxide, Prunus Amypte Seed Extract/Prunus Amygdalus Dulcis (Sweet Almond) Seed Extract, Xanthan Gom Achol, Citric Acid, Dehydroacetic Acid.",
+    "lang": "de",
+    "product_name": "ALMOND MILK & HONEY For Sensitive, Dry Skin",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197919214",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Body butter mango",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197920487",
+    "countries_tags": [
+      "en:ireland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/792/0487/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "tea tree skin clearing",
+    "quantity": "150 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "5028197553128",
+    "countries_tags": [
+      "en:mexico",
+      "en:switzerland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/3128/front_fr.4.400.jpg",
+    "lang": "fr",
+    "product_name": "fuji green tea",
+    "quantity": "250ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197521080",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/752/1080/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Nettoyant purifiant visage Tea Tree",
+    "quantity": "250ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-scrubs"
+    ],
+    "code": "5028197104344",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/710/4344/front_fr.5.400.jpg",
+    "ingredients_text": "aqua, sodium laureth sulfate, glycerin, lauryl betaine, polyethylene acrylates copolymer, peg-40 hydrogenated castor oil, propanediol, phenoxethanol, melaleuca alternifolia leaf oil / melaleuca alternifolia leaf oil, sodium  chloride, mannitol, sodium hydroxide, p-anisic acid, cellulose, acacia concinna fruit extract, balanites aegyptiaca fruit extract, menthol, disodium edta, gypsophila paniculata root extract, limonene, calophyllum inophyllum seed oil, citral, tocopheryl acetate, leptospermum petersonii oil, potassium sorbate, sodium benzoate, hydroxypropyl methylcellulose, sorbic acod, tocopherol, CI 19140, CI 42090",
+    "lang": "fr",
+    "product_name": "Arbre \u00e0 th\u00e9 - Gommage purifiant",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "fr:P\u00e9dicure",
+      "fr:Soins pour les pieds"
+    ],
+    "code": "5028197872854",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/787/2854/front_fr.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Menthe poivr\u00e9e mini soin des pieds",
+    "quantity": "50 g / 60 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:hand-creams"
+    ],
+    "code": "5028197197230",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/719/7230/front_fr.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Glycerin, Caprylic/ Capric Triglyceride, Mel/Honey/Miel, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Polyacrylate, Cetyl Alcohol, Parfum/Fragrance, Pentaerythrityl Distearate, Phenoxyethanol, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Glucoside, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Orbignya Oleifera Seed Oil, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Myristamidopropyl PG-Dimonium Chloride Phosphate, Sodium Stearoyl Glutamate Xanthan Gum, Hexyl Cinnamal, Disodium EDTA, Benzyl Salicylate, Myristyl Alcohol, Stearyl Alcohol, Geraniol, Linalool, Limonene, Citric Acid, Cl 19140/Yellow 5, Cl 15985/Yellow 6,Cl 14700/Red 4.",
+    "lang": "fr",
+    "product_name": "Honeymania cr\u00e8me pour les mains",
+    "quantity": "30 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197457198",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/745/7198/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Pink Grapefruit",
+    "quantity": "30mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197546373",
+    "countries_tags": [
+      "en:switzerland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/754/6373/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Absinthe Cr\u00e8me Mains Purifiante",
+    "quantity": "1"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197931469",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197414634",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/741/4634/front_fr.4.400.jpg",
+    "ingredients_text": "Eau, sodium laureth sulfate, cocamidopropyl b\u00e9ta\u00efne, glyc\u00e9rine, polysorbate 20, PEG-40 hydrogenated castor oil, sodium chloride, polyglyceryl-2 caprate, trisodium sulfosuccinate, PEG-120 methyl glucose dioleate, miel, sodium benzoate, parfum, citric acid, limonene, citrus paradisi seed oil, linalool, disodium EDTA, hexyl cinnamal, citral, denatonium benzoate, Cl 14700/Red 4, Cl 17200/Red 33.",
+    "lang": "fr",
+    "product_name": "Gel douche pamplemousse rose",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197948276",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/794/8276/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Gel nettoyant mains",
+    "quantity": "60ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197607326",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/760/7326/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Seaweed oil-control gel cream",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197769079",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/776/9079/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Tahitian Tiar\u00e9 Body Wash",
+    "quantity": "250ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:face",
+      "en:lip-balms",
+      "en:lip-cosmetics"
+    ],
+    "code": "96045138",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/009/604/5138/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Coconut Lip Butter",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197449285",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/744/9285/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Body butter",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197557843",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/755/7843/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Beurre Corps Energisant - Pink Grapefruit",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "96132487",
+    "countries_tags": [
+      "en:switzerland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/009/613/2487/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Cr\u00e8me contour des yeux",
+    "quantity": "15ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197926120",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/792/6120/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Hand protection   Hemp",
+    "quantity": "1"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197748432",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/774/8432/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Beurre Corps Douceur - Vanilla Pumpkin",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197551346",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "982601 : Butyrospermum Parkii ButtertButyrospermum Parkii (Shea) Butter. Ricinus Communis Seed Oil/Ricinus Communis (Castor) Seed 011 Brassica Campestris/Aleurites For$li 011 Copolymer. Cera AbdBeeswaVCire fabeil}e. Lanofi4m PEG\u20228",
+    "lang": "fr",
+    "product_name": "The Body Shop Shea Lip Butter",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197479534",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/747/9534/front_fr.4.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Sodium laureth sulfate, sodium Alcohol, lauryl Betaine, Decyl Glucoside, Parfum/fragrance, styrene/AcryIates Mel/Honey/Miel, Sodium Hydroxide, Coco-Glucoside, Salicylic Acid, Cocos Nucifera (Coconut) Oil, Sodium Cocoabutteramphoacetate, Disodium EDTA, Benzyl Benzoate, Coumarin, Citric Acid, Benzoic Acid, Denatonium Benzoate. 831546 Ref: 47953",
+    "lang": "fr",
+    "product_name": "Coconut Bath Shower Gel / Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197546366",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/754/6366/front_fr.4.400.jpg",
+    "lang": "fr",
+    "product_name": "British rose",
+    "quantity": "30ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197751418",
+    "countries_tags": [
+      "en:indonesia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/775/1418/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Mate clay skin clarifiying foundation",
+    "quantity": "30 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197482398",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/748/2398/front_fr.7.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Pinita colada",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197121990",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/712/1990/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "The Body Shop Vitamin E Cool BB Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197406196",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/740/6196/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "CHANGE - HEMP",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:face",
+      "en:cleansers",
+      "en:eye-makeup-remover"
+    ],
+    "code": "5028197979546",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/797/9546/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "D\u00e9maquillant doux pour les  yeux Camomille",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197521219",
+    "countries_tags": [
+      "en:brazil"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/752/1219/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "",
+    "quantity": "60 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197546403",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Hemp Hand Protector",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "fr:Hydratant pour le corps"
+    ],
+    "code": "5028197890278",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/789/0278/front_fr.3.400.jpg",
+    "ingredients_text": "eau, huile de graine de mangue, beurre de cacao, huile d'amande douce, glyc\u00e9rine, st\u00e9arate de glyc\u00e9ryle, st\u00e9arate de PEG 100, Cyclopentasiloxane, ph\u00e9noxy\u00e9thanol, parfum, alcool benzylique, parahydroxybenzoate de m\u00e9thyle, gomme de xanthane, parahydroxybenzoate de propyle, EDTA disodique, soude, hydroxyde de potassium, acide citrique, rocou",
+    "lang": "fr",
+    "product_name": "beurre corporel \u00e0 la mangue",
+    "quantity": "300 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "5028197546250",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/754/6250/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Atlantic Seaweed Cream. Gel-cr\u00e8me corps revitalisant",
+    "quantity": "336 g"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-scrubs"
+    ],
+    "code": "5028197578770",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/757/8770/front_fr.11.400.jpg",
+    "ingredients_text": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Silica [NANO]/Silica, Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Prunus Persica Kernel Oil/Prunus Persica (Peach) Kernel Oil, Orbignya Oleifera Seed Oil, Sorbitan Stearate, Parfum/Fragrance, Glyceryl Stearate, PEG-100 Stearate, Caprylyl Glycol, Phenoxyethanol, Prunus Persica Seed Powder/Prunus Persica (Peach) Seed Powder, Sclerocarya Birrea Seed Oil, Carbomer, Cocos Nucifera Shell Powder/Cocos Nucifera (Coconut) Shell Powder, Linalool, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Disodium EDTA, Limonene, Prunus Persica Extract/Prunus Persica (Peach) Extract, Denatonium Benzoate, Citric Acid, CI 14700/Red 4, CI 15985/Yellow 6",
+    "lang": "fr",
+    "product_name": "The body shop cr\u00e8me exfoliante corps p\u00eache de vigne",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "code": "03828504",
+    "countries_tags": [
+      "en:romania"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/000/382/8504/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Soothing rescue cream mask",
+    "quantity": "96 g"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197410896",
+    "countries_tags": [
+      "en:australia"
+    ],
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "The Body Shop Indian night jasmine cream",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [],
+    "code": "5028197150693",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "strawberry hand cream",
+    "quantity": ""
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams",
+      "en:foot-creams"
+    ],
+    "code": "5028197823160",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/782/3160/front_fr.11.400.jpg",
+    "ingredients_text": "Aqua, Ethylhexyl Palmitate, Ceteth-20, Cyclomethicone, Prunus Amygdalus Dulcis Oil, Vitis Vinifera Seed Oil, Steareth-2, Stearyl Alcohol, Glycerin, Alcohol Denat., Carbomer, Theobroma Cacao Butter, Myristamidopropyl PG-Dimonium Chloride Phosphate, Mentha Piperita Oil, Phenethyl Alcohol, Caprylyl Glycol, Sodium Hydroxide, p-Anisic Acid, Acidophilus/Grape Ferment, Menthol, Disodium EDTA, Limonene, Linalool, Propyl Gallate, Tocopheryl Acetate, Butylene Glycol, Denatonium Benzoate, CI 17200, CI 15985.",
+    "lang": "fr",
+    "product_name": "Menthe poivr\u00e9e lait apaisant pour les pieds",
+    "quantity": "60 ml"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:perfumes",
+      "en:body-mists"
+    ],
+    "code": "5028197682811",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/768/2811/front_fr.6.400.jpg",
+    "ingredients_text": "aqua, PEG-8, PEG-40 hydrogenated castor oil, pentylene glycol, parfum, myristamidopropyl PG-Dimonium Chloride Phosphate, betaine, propylene glycol, argania spinosa kernel oil, linalool, aloe barbadensis leaf juice, disodium EDTA, limonene,butylphenyl methylpropional, benzyl salicylate, citric acid, citronellol, citrus aurantium dulcis flower extract,sorbitol, hydroxycitronellal, hexyl cinnamal, sodium hydroxide, alpha-isomethyl ionone, farnesol, geraniol",
+    "lang": "fr",
+    "product_name": "Spa wisdom Maroc Brume derni\u00e8re touche fleur d'oranger",
+    "quantity": "100 mL"
+  },
+  {
+    "brands": "The Body Shop",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-creams"
+    ],
+    "code": "5028197983055",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/502/819/798/3055/front_fr.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Noix du br\u00e9sil cr\u00e8me de douche",
+    "quantity": "250mL"
+  }
+]

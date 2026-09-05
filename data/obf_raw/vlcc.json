@@ -1,0 +1,54 @@
+[
+  {
+    "brands": "VLCC",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8907122002672",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/712/200/2672/front_en.9.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Vlcc Anti tan sun screen lotion 150+150 ml",
+    "quantity": ""
+  },
+  {
+    "brands": "Vlcc",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0941292000012",
+    "countries_tags": [
+      "en:india"
+    ],
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Vlcc  gold bleach",
+    "quantity": "60g"
+  },
+  {
+    "brands": "Vlcc",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8906008458039",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/600/845/8039/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "diamond facial kit",
+    "quantity": "60g"
+  }
+]

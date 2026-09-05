@@ -1,0 +1,55 @@
+[
+  {
+    "brands": "Cosrx",
+    "categories_tags": [],
+    "code": "8809598450912",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "cosrx cream",
+    "quantity": "80ml"
+  },
+  {
+    "brands": "COSRX",
+    "categories_tags": [
+      "it:protezione solare"
+    ],
+    "code": "8809598454354",
+    "countries_tags": [
+      "en:italy"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.400.jpg",
+    "ingredients_text": "Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Cyclopentasiloxane, Phenylbenzimidazole Sulfonic Acid, Bis-\u00c9thy - lhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Dimethicone, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG - 100 Stearate, Triethanolamine, Silica, Sodium Hydroxide, Dimet - hicone/Vinyl Dimethicone Crosspolymer, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Fragrance, Caprylyl Glycol, Ph - enoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Arborescens Leaf Extract(1,100 ppm), Dipotassium Glycyrrhizate, Carbomer, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Benzyl Alcohol, Citronellol, Benzyl Benzoate, Citral",
+    "lang": "it",
+    "product_name": "Aloe Soothing Sun Cream",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Cosrx",
+    "code": "8809598453661",
+    "countries_tags": [
+      "en:korean"
+    ],
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "salicylic acid daily gentle cleanser",
+    "quantity": "1"
+  },
+  {
+    "brands": "COSRX",
+    "code": "8809598451926",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.400.jpg",
+    "ingredients_text": "Water, Glycerin, Stearic Acid, Myristic Acid, Lauric Acid, Potassium Hydroxide, Palmitic Acid, Potassium Cocoyl Glycinate, Coco-Glucoside, Glyceryl Stearate, Fragrance (Parfum), Polyquaternium-7, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cocoyl Isethionate, Arachidic Acid, Disodium EDTA, 1,2-Hexanediol, Oleic Acid, Sodium Benzoate, Quillaja Saponaria Bark Extract, Citric Acid, Butylene Gylcol, Panthenol, Hyaluronic Acid, Ethylhexylglycerin, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate.",
+    "lang": "en",
+    "product_name": "Hydrium Triple Hyaluronic Moisturizing Cleanser"
+  }
+]

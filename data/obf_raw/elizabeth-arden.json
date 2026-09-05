@@ -1,0 +1,57 @@
+[
+  {
+    "brands": "Elizabeth Arden",
+    "code": "0085805529642",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/008/580/552/9642/front_es.12.400.jpg",
+    "lang": "es",
+    "product_name": "Eight hour cream",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Elizabeth Arden",
+    "categories_tags": [],
+    "code": "7702044246842",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/770/204/424/6842/front_de.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "crema desodorante",
+    "quantity": "100pcs"
+  },
+  {
+    "brands": "Elizabeth Arden",
+    "code": "0085805071387",
+    "countries_tags": [
+      "en:norway"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/008/580/507/1387/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Green Tea Honey Drops Body Cream",
+    "quantity": "500ml"
+  },
+  {
+    "brands": "Elizabeth Arden",
+    "categories_tags": [
+      "en:face",
+      "en:lip-balms",
+      "en:Lip-cosmetics"
+    ],
+    "code": "0085805141943",
+    "countries_tags": [
+      "en:latvia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/008/580/514/1943/front_lv.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lip balm",
+    "quantity": "13 ml"
+  }
+]

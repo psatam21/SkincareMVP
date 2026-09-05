@@ -1,0 +1,738 @@
+[
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:cosmetics",
+      "en:non-open-products-facts",
+      "en:open-beauty-facts",
+      "en:skin-care",
+      "nl:Bodyolie",
+      "nl:Verzorging"
+    ],
+    "code": "3264680038334",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/8334/front_fr.5.400.jpg",
+    "lang": "nl",
+    "product_name": "Nuxe Huile Prodigieuse Or Florale Multi-Purpose Dry Oil Face And Body",
+    "quantity": "1 stuk"
+  },
+  {
+    "brands": "nuxe",
+    "categories_tags": [
+      "nl:Beauty",
+      "nl:Gezichtsolie",
+      "nl:Serum",
+      "nl:Skincare"
+    ],
+    "code": "3264680009754",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/9754/front_fr.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "nl",
+    "product_name": "Nuxe Huile Prodigieuse Multi-Purpose Dry Oil All Skin Types/Face, Body & Hair",
+    "quantity": "1 stuk"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680034497",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4497/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Ultra Serum correcteur de t\u00e2ches",
+    "quantity": "30ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680034510",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4510/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Ultra",
+    "quantity": "15ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680046513",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/004/6513/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Merveillance Lift",
+    "quantity": "75ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680044311",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/004/4311/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxurance ultra Le soin d'exception jour & nuit",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680037252",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/7252/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Gold Huile anti-\u00e2ge bio",
+    "quantity": "30ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680015915",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/5915/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Gold Baume Nuit",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680042201",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/004/2201/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Huile Prodigieuse Or Roll-on",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680034503",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4503/front_fr.6.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Ultra Cr\u00e8me Anti-\u00e2ge Global SPF 30",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680034473",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4473/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Ultra Creme Riche Anti-\u00e2ge",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680024382",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/4382/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Huile prodigieuse Florale",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680029837",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/9837/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Prodigieux le teint \u00e9clat Cr\u00e8me teint\u00e9e hydratante Teinte m\u00e9dium",
+    "quantity": "30ml"
+  },
+  {
+    "brands": "Nuxe, Nuxe body",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3264680004285",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/4285/front_fr.6.400.jpg",
+    "ingredients_text": "AQUA/WATER, SODIUM LAURYL SULFATE, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PARFUM/FRAGRANCE, PHENOXYETHANOL, GLUCONOLACTONE, SODIUM HYDROXIDE, SODIUM COCOAMPHOACETATE, LAURYL GLUCOSIDE, SODIUM BENZOATE, CITRIC ACID, TETRASODIUM EDTA, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, SODIUM COCOYL GLUTAMATE, SODIUM LAURYL GLUCOSE CARBOXYLATE, CALCIUM GLUCONATE, CITRUS AURANTIUM DULCIS (ORANGE) FLOWER EXTRACT, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) FLOWER EXTRACT, TROPOLONE [N2102/A].",
+    "lang": "fr",
+    "product_name": "Gel douche fondant",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:hair",
+      "en:hygiene",
+      "en:shampoos",
+      "en:showers-and-baths",
+      "en:2-in-1-shampoos",
+      "en:shampoos-shower-gels",
+      "en:shower-gels"
+    ],
+    "code": "3264680004964",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/4964/front_fr.5.400.jpg",
+    "ingredients_text": "Aqua/Water, Sodium Lauryl Sulfate, Coco-Glucoside, Glycerin, Parfum/Fragrance, Sodium Cocoamphoacetate, Phenoxyethanol, Gluconolactone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lauryl Glucoside, Sodium Cocoyl Glutamate, Sodium Hydroxide, Sodium Lauryl Glucose Carboxylate, Sodium Benzoate, Citric Acid, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, 1,2-Hexanediol, Caprylylglycol, Glyceryl Oleate, Alcohol, Calcium Gluconate, Tropolone, Carpinus Betulus Bud Extract, Quercus Robur Bark Extract, Hydrogenated Palm Glycerides Citrate, Tocopherol, Limonene [N1905/A]",
+    "lang": "fr",
+    "product_name": "Gel douche multi-usages Nuxe men",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels",
+      "en:shower-oils"
+    ],
+    "code": "3264680011221",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/1221/front_fr.13.400.jpg",
+    "ingredients_text": "AQUA/WATER, SODIUM LAUROYL SARCOSINATE, COCO-GLUCOSIDE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM/FRAGRANCE, GLYCERYL OLEATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PEG-7 GLYCERYL COCOATE, BENZYL ALCOHOL, PHENOXYETHANOL, GLYCERYL LAURATE, SODIUM CHLORIDE, SODIUM GLUCONATE, SODIUM HYDROXIDE, CITRIC ACID, MICA, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, CI 77891/TITANIUM DIOXIDE, DEHYDROACETIC ACID, SODIUM BENZOATE, CI 77491/IRON OXIDES, HYDROGENATED PALM GLYCERIDES CITRATE, TOCOPHEROL, BENZYL SALICYLATE, LINALOOL, LIMONENE, CITRONELLOL, GERANIOL [N2210/A].",
+    "lang": "fr",
+    "product_name": "Prodigieux - huile de douche",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "0260010007844",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/026/001/000/7844/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Cr\u00e8me fraiche de beaut\u00e9"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "3264680028878",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/8878/front_fr.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Lait solaire fondant SPF50+",
+    "quantity": "150 mL"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680007569",
+    "countries_tags": [
+      "en:france",
+      "en:italy"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/7569/front_en.12.400.jpg",
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680044922",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/004/4922/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Serum"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3264680037115",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/7115/front_fr.3.400.jpg",
+    "ingredients_text": "AQUA/WATER, COCAMIDOPROPYL BETAINE, SODIUM METHYL COCOYL TAURATE, SODIUM COCOYLISETHIONATE, SODIUM CHLORIDE, LAURYL GLUCOSIDE, GLYCOL DISTEARATE, PARFUM/FRAGRANCE, GLYCERIN, SODIUM BENZOATE, CAMELLIA JAPONICA SEED OIL, CITRIC ACID GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, CELLULOSE, CELLULOSE GUM, CARAMEL, BENZOIC ACID, CANDIDA BOMBICOLA/GLUCOSE/METHYL RAPESEEDATE FERMENT, LINALOOL, CITRONELLOL, LIMONENE, GERANIOL (N5402/A]",
+    "lang": "fr",
+    "product_name": "Hair prodigieux le shampooing",
+    "quantity": "9 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680034725",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4725/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Cr\u00e8me mains et ongles"
+  },
+  {
+    "brands": "NUXE",
+    "categories_tags": [
+      "fr:gel lavant s\u00fbr gras visage et corps"
+    ],
+    "code": "3264680025891",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/5891/front_fr.4.400.jpg",
+    "ingredients_text": "AQUA/WATER, GLYCERIN, SODIUM COCOAMPHOACETATE, SODIUM LAUROYL SARCOSINATE, LAURYL GLUCOSIDE, PARFUM/FRAGRANCE, MEL/HONEY, SUNFLOWER SEED OIL PEG-8 ESTERS, SODIUM COCOYL GLUTAMATE, SODIUM LAURYL GLUCOSE CARBOXYLATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PHENOXYETHANOL, GLUCONOLACTONE, SODIUM HYDROXIDE, COCO, sucre, GLYCERYL OLEATE, CITRIC ACID, ALLANTOIN, SODIUM BENZOATE, TETRASODIUM GLUTAMATE DIACETATE, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, CARAMEL, CALCIUM GLUCONATE, TROPOLONE, HYDROGENATED PALM GLYCERIDES CITRATE, TOCOPHEROL [N2002/A]. FR Ri MADE IN FRANCE Laboratoire NUXE + 127, rue d'Aguesseau 92100-Boulogne Paris-Frame NUXE UK-EC2M 1JH WWW.NUXE.COM \u0e08 A 12 M PET",
+    "lang": "fr",
+    "product_name": "NUXE R\u00caVE DE MIEL GEL LAVANT",
+    "quantity": "750 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680034534",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/003/4534/front_fr.9.400.jpg",
+    "lang": "fr",
+    "product_name": "Nuxuriance Ultra Le Soin Mains Correcteur de Taches",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "fr:Huile prodigieuse"
+    ],
+    "code": "3264680023989",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/3989/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Nuxe prodigieuse",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "8433295067380",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/843/329/506/7380/front_es.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "R\u00eave de miel",
+    "quantity": ""
+  },
+  {
+    "brands": "NUXE",
+    "code": "3264680029103",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/9103/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "MerveillanceLIFT",
+    "quantity": "2ml"
+  },
+  {
+    "brands": "NUXE",
+    "code": "3264680023279",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/3279/front_fr.6.400.jpg",
+    "lang": "fr",
+    "product_name": "Poudre de noyaux - masque nettoyant",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "fr:Shampooing solide"
+    ],
+    "code": "3264680026270",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/6270/front_fr.13.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "r\u00eave de miel",
+    "quantity": "65gr"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680023323",
+    "countries_tags": [
+      "en:canada de"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/3323/front_xx.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "super serum",
+    "quantity": "30"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3264680023576",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/002/3576/front_fr.7.400.jpg",
+    "ingredients_text": "ANO56001A 100950NA - Paris-France MADE IN FRANCE OTHER RIROIDE LIMONENE, LINALOOL N2218A RATE, SODIUM CHILORIDE. PRUNUS AMYGDALUS DULCIS (SWET ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, GLYCERIL COCAMIDOPROPYL BETAINE, GLYCERIN, PARFUM/FRAGRANCE, NGREDIENTS : ADUA/WATER, CAPRYLYL/CAPRYL GLUCOSIDE, Ne peut etre vendu s\u00e9par\u00e9ment, Not for individual sale imula facilmente biodegrad\u00e1vel. Sem ingredientes de of Contiene Contiene un 96% ingredientes de origen natural, Bevat van natuurlijke oorsprong. GEL DE PERFUMAL GEL DOCCIA JMATO ALWOND OIL, GLUCONATE, SODUM LAURATE, PRUNUS DUL CIS (SWEET I di dolci Cont\u00e9m de de origem natural. I Com \u00f3leo de doces Limpa e TODO O PELE-CORPO \u0c38\u0c41\u0c28\u0c28 ne R in einer Pflegebasis natorlichen er Haut. Morgens/abends. Bel Augenkonts ALLE HAUTTYPEN-inP",
+    "lang": "fr",
+    "product_name": "gel\u00e9e de douche parfum\u00e9e",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680010668",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/0668/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Huile demaquillante micellaire",
+    "quantity": "150ml"
+  },
+  {
+    "brands": "NUXE",
+    "code": "3264680004322",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/4322/front_fr.5.400.jpg",
+    "lang": "fr",
+    "product_name": "D\u00e9odorant longue dur\u00e9e Aux poudres d'alun et d'argent Nuxe Body",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "NUXE",
+    "code": "3264680013485",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/3485/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "D\u00e9odorant longue dur\u00e9e Nuxe Body aux poudres naturelles d'alun er d'argent",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680015786",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Nuxe bio",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:Visage"
+    ],
+    "code": "3264680012297",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "en",
+    "product_name": "Cr\u00e8me fra\u00eeche de beaut\u00e9"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "en:Visage et Corps"
+    ],
+    "code": "3264680008603",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "en",
+    "product_name": "Gel Cr\u00e8me Hydratant Autobrozant"
+  },
+  {
+    "brands": "NUXE",
+    "code": "3264680004957",
+    "countries_tags": [
+      "en:belgium"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/4957/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Gel Multi-Fonctions Hydratant",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680006142",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Prodigieux le parfum",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [
+      "fr:Soins visage"
+    ],
+    "code": "3264680005343",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/5343/front_en.3.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Macadamia Integrifolia Seed Oil, Cetearyl Alcohol, Octyldodecanol, Glycerin, Hydrogenated Coconut Oil, Butyrospermum Parkii (shea) Butter, Xylitylglucoside, Anhydroxylitol, Arachidyl Alcohol, Dimethicone, Benzyl Alcohol, Cetearyl Glucoside, Caprylic/Capric Triglyceride, Capryloyl Glycine, Parfum, Safflower Oil/Palm Oil, Aminopropanediol Esters, Tocopherol, Behenyl Alcohol, Citric Acid, Xylitol, Sodium Hydroxide, Xanthan Gum, Helianthus Annuus (sunflower) Seed OIl, Arachidyl Glucoside, Allantoin, Butylene GLycol, CI 77891/Titanium Dioxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf Juice Powder, Tetrasodium EDTA, Dehydroacetic Acid, Salicornia Herbacea Extract, Clerotium Gum, Glycine Soja (soybean) Oil, Camellia Oleifera Seed Oil, Citrus Aurantium Dulcis (orange) Flower Extract, Prunus Amygdalus Dulcis (sweet almond) Flower Extract, Cocos Nucifera (coconut) Oil, Ethylhexylglycerin, Lupinus Albus Seed Extract, Prunus Amygdalus Dulcis (sweet almond) Oil, Glycine Soja (soybean) Seed Extract, Pisum Sativum (pea) Extract, Disodium EDTA, Avena Sativa (oat) Kernel Extract, Camellia Sinensis Leaf Extract, Cocos Nucifera (coconut) Fruit Extract, Linalool, Amygdalus Dulcis (sweet almond) Fruit Extract, Robinia Pseudacacia Flower Extract, Cocos Nucifera (coconut) Fruit Extract, Linalool.",
+    "lang": "en",
+    "product_name": "cr\u00e8me fra\u00eeche de beaut\u00e9",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "nuxe",
+    "code": "3264680010484",
+    "countries_tags": [
+      "en:reunion"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/0484/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "bio beaute detox",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "code": "16115859",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/001/611/5859/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "D\u00e9odorant longue dur\u00e9e",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "nuxe",
+    "categories_tags": [
+      "fr:Cosm\u00e9tique"
+    ],
+    "code": "3264680003820",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/3820/front_fr.5.400.jpg",
+    "ingredients_text": "INGREDIENTS AQUA/WATER, CITRUS AURANTIUM DULCS PARFUMIFRAGRANCE, BENZYL ALCOHOL, CAPRYLOYL GLYCINE COICH HYDROXIDE, ALOE BARBADENSIS LEAF JUICE POWDER&quot;, CAPRILIL DEHYDROACETIC ACID, GLYCERYL OLEATE, PRUNUS ARMENACA A DOMESTICA FRUIT EXTRACT, MORUS NIGRA FRUIT EXTRACT POTAS HYDROGENATED PALM GLYCERIDES.CITRATE, sodium benzoate TOCOPHEROL, INONBE * Ingr\u00e9dien diants from",
+    "lang": "fr",
+    "product_name": "eau demaquillante micellaire nuxe",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680005978",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/5978/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Bb cr\u00e8me",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680014871",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/4871/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Lotion essence aquabella",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680010804",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/0804/front_fr.4.400.jpg",
+    "ingredients_text": "N UXE r\u00eave de miel' STICK L\u00c8VRES HYDRATANT rniel et tournesol LIP MOISTURIZING",
+    "lang": "fr",
+    "product_name": "Nuxe Reve De Miel Stick L\u00e8vres Lot",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680010491",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "SODIUM LAURYL SULFATE, COCOQIJCOSIDE, GLYCERIN, SODIUM COCOAMPHOACETATE ACRYLATEYCIO.30 CROSSPOLYMER, LAURYL GLUCOSIDE SODIUM cocoYL GLUTAMATE, SODIUM HYDROXIDE, SODIUM LAURYL SODIUM HYDROXYPROPYL CHLORIDE, TETRASODIUM EDTA, 1,244EXANEDlOL, CAPRYLYL GLYCOL, GLYCERYL OLEATE, ALCOHOL, aLClUM TROPOLON\u00c7 CARPINUSBETULUS ROBUR BARK EXTRACT, HYDROGENATED PALM GLYCERIDES CITRATE TOCOPHEROL, [N t90S/Al. GEL DE RASAGE SHAVING GEL IN;REDIENTS : ACUA/WATER, PALMITIC TRIETHANOLAMINE, OCETH.20, ISOPENTANE, SORBITOL, GLYCERIN, ISOBUTANE, CAPRYLIC/CAPRIC TRIGLYCERIDE, COCAMIDE HYDROXYETHYLCELLULOSE, PHENOXYETHANOL, HYDROGENATED POLYISOBUTENE, HYDROXYETHYL UREA, PARFUM/FRAGRANCE, 1,2.HEXANEDlOL, CAPRYLYL GLYCOL, TOCOPHERYI ACETATE, ALLANTOIN, BISABOLOL PEG.14M, ETHYLHEXYLGLYCERIN, HORDEUM OISTICHON (BARLEY) EXTRACT, BHT, AMMONIUM LACTATE, PHELLODENDRON AMURENSE BARK",
+    "lang": "fr",
+    "product_name": "Nuxe Men Offre D\u00e9couverte Douche Rasage Multifonctions",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680007750",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "COCOS NUCIFERA (COCONUT) Olt, PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, BEHENYL ALCOHOL, PRUNUS AMYGOAUJS ALMONO) Olt, ALCOHOL, CETEARYL ALCOHOL, MEUHONEY, PERSEA GRATISSIMA (AVOCADO) CIL, ROSA MOSCHATA otL, CERA ALWBEESWAX, TOCOPHEROL, PARFUM/FRAGRANCE, COCO.GLUCOSIDE, CAPRYLIC/CAPRIC TRIGLYCERIDE, HELIANTHUS ANNUUS (SUNFLOWER) GLYCINE SOJA (SOYBEAN) 011, ETHYLHEXYLGLYCERIN, CAPRYLYL GLYCOL, ALLANTOIN, PARKII (SHEA) EXTRACT, 1,2.HEXANEDlOL, TETRASODIUM GLUTAMATE DIACETATE, SODIUM HYDROXIOE, ARGANIA SPINOSA KERNEL Olt, CALENDULA FLOWER VULGARE (SUNFLOWER) STICK L\u00c8VRES HYDRATANT - LIP UOISTURIZING STICK ? FEUCHTIGKEITSSPENDEHDER LIPPENPFLEGESTIFT ? 0.14 01. NET WT. BUTTER, BRAN BUTTER",
+    "lang": "fr",
+    "product_name": "Nuxe Kit D\u00e9couverte R\u00eave De Miel Cr\u00e8me Mains Et Ongles 30ML + Stick L\u00e8vres Hydratant",
+    "quantity": ""
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680009488",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/9488/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Prodigieux lait parfum\u00e9 Lait corps sublimateur",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680010460",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/001/0460/front_fr.6.400.jpg",
+    "ingredients_text": "Aqua (Water), Propanediol Dicaprylate, Centaurea Cyanus Flower Water*, Simmondsia Chinensis Jojoba Seed Oil*, Sucrose Distearate, Glycerin, Behenyl Alcohol, C10-18 Triglycerides, Prunus Armeniaca (apricot) Kernel Oil, Citrus Aurantium Dulcis (Orange) Fruit Water*, Oleic/Linoleic/Linolenic Polyglycerides, Prunus Domestica Seed Oil,* Parfum, Sucrose Stearate, Talc, Hydrogenated Apricot Kernel Oil*, Benzyl Alcohol, Capryloyl Glycine, Sodium Stearoyl Glutamate, Mauritia Flexuosa Fruit Oil*, Citric Acid, Tocopherol, Xanthan Gum, Propanediol, Sodium Hydroxide, Sodium Gluconate, Aloe Barbadensis Leaf Juice Powder*, Citronellol, Biosaccharide Gum-1, Deyhdroacetic Acid, Lauroyl Lysine, Linalool, Geraniol, Sodium Levulinate, Myrtus Communis Leaf Extract*, Glyceryl Caprylate, Mica, Camellia Sinensis Leaf Extract, Sodium Anisate, CI 77491/Iron oxides, Papaver Rhoeas Petal Extract*, Malpighia Punicifolia (Acerola) Fruit Extract*, Polyglyceryl-3 Diisostearate, Sodium Benzoate, Maltodextrin*, Ascorbic Acid.\r\n[0388/A] * Ingr\u00e9dients issus de l'agriculture biologique.",
+    "lang": "fr",
+    "product_name": "Cr\u00e8me d\u00e9tox anti-pollution et \u00e9clat - Bio Beaut\u00e9",
+    "quantity": "40 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680006975",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/6975/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Merveillance expert",
+    "quantity": ""
+  },
+  {
+    "brands": "Bio Beaut\u00e9, Nuxe",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:natural-extract-shampoos"
+    ],
+    "code": "3264680005206",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/5206/front_fr.10.400.jpg",
+    "ingredients_text": "AQUA/WATER, SODIUM LAURYL SULFATE, GLYCERIN, COCO-GLUCOSIDE, INULIN, BABASSUAMIDOPROPYL BETAINE, GLYCERYL OLEATE, PARFUM/FRAGRANCE, BENZYL ALCOHOL, LIPPIA CITRIODORA LEAF EXTRACT, LEVULINIC ACID, CITRIC ACID, SODIUM LEVULINATE, HYDROLYZED SWEET ALMOND SEEDCAKE, PHYTIC ACID, DEHYDROACETIC ACID, BENZOIC ACID, SODIUM BENZOATE, HYDROGENATED PALM GLYCERIDES CITRATE, TOCOPHEROL, LIMONENE, CITRAL [N0358/C].",
+    "lang": "fr",
+    "product_name": "Shampooing usage fr\u00e9quent",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "code": "3264680009877",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/326/468/000/9877/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "cr\u00e8me raffermissante sublimatrice \u00e0 l'extrait de c\u00e9drat de Corse et huile v\u00e9g\u00e9tale",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Nuxe",
+    "categories_tags": [],
+    "code": "3264680004247",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Lait d\u00e9maquillant",
+    "quantity": "400ml"
+  },
+  {
+    "brands": "Laboratoire Nuxe, Nuxe, Nuxellence",
+    "categories_tags": [
+      "en:eyes",
+      "en:face",
+      "en:facial-creams",
+      "en:anti-aging-face-care-products",
+      "fr:Soins anti-\u00e2ge",
+      "fr:Soins anti-\u00e2ge yeux"
+    ],
+    "code": "3264680010330",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "DIMETHICONE, AQUA/WATER, DIMETHICONE CROSSPOLYMER, CAPRYLIC/CAPRIC TRIGLYCERIDE, TALC, SILICA, PEG/PPG-18/18 DIMETHICONE, BUTYLENE GLYCOL, GLYCERIN, CI 77891/TITANIUM DIOXIDE, PARFUM/FRAGRANCE, PHENOXYETHANOL, SODIUM CHLORIDE, ALBIZIA JULIBRISSIN BARK EXTRACT, MICA, DEHYDROACETIC ACID, SODIUM GLUCONATE, TRIETHOXYCAPRYLYLSILANE, CI 77492/IRON OXIDES, SODIUM HYALURONATE, METHICONE, LEPIDIUM MEYENII ROOT EXTRACT, THEOBROMA CACAO (COCOA) LEAF CELL EXTRACT, CI 77491/IRON OXIDES, PAPAVER RHOEAS PETAL EXTRACT, PASSIFLORA INCARNATA EXTRACT, BENZYL ALCOHOL, ANCHUSA ARVENSIS EXTRACT, TIN OXIDE, CALENDULA OFFICINALIS FLOWER EXTRACT, SODIUM BENZOATE, ARAUCARIA ANGUSTIFOLIA SEED EXTRACT, DARUTOSIDE [N2403/B]",
+    "lang": "fr",
+    "product_name": "Soin anti-\u00e2ge yeux rechargeur jeunesse et perfection",
+    "quantity": "15ml"
+  }
+]

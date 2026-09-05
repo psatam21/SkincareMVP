@@ -1,0 +1,28 @@
+[
+  {
+    "brands": "Differin",
+    "categories_tags": [
+      "pt:Cuidados com a pele",
+      "pt:Tratamento de acne"
+    ],
+    "code": "0302994910151",
+    "countries_tags": [
+      "en:brazil"
+    ],
+    "ingredients_text": "Adapaleno 0,1%, \u00c1lcool Isoprop\u00edlico, \u00c1gua, Carb\u00f4mero, Polox\u00e2mero 124, Edetato Diss\u00f3dico, Di\u00f3xido de Tit\u00e2nio, \u00c1cido C\u00edtrico, Hidr\u00f3xido de S\u00f3dio.",
+    "lang": "pt",
+    "product_name": "Differin Gel Adapalene 0.1% Acne Treatment",
+    "quantity": "25g"
+  },
+  {
+    "brands": "Differin",
+    "code": "0302990220506",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/030/299/022/0506/front_en.3.400.jpg",
+    "ingredients_text": "Water, Glycerin, PEG-200 Hydrogenated Glyceryl Palmate, Butylene Glycol, Sodium Lauroyl Sarcosinate, Acrylates/Steareth-20 Methacrylate Copolymer, PEG-7 Glyceryl Cocoate, Sodium Laureth Sulfate, Phenoxyethanol, Methylparaben, Disodium EDTA, PEG-60 Hydrogenated Castor Oil, Panthenol, Masking Fragrance.",
+    "lang": "en",
+    "product_name": "Daily Refreshing Cleanser"
+  }
+]

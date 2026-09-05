@@ -1,0 +1,36 @@
+[
+  {
+    "brands": "Nykaa",
+    "categories_tags": [
+      "en:face",
+      "en:face-scrubs"
+    ],
+    "code": "8904245716875",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/424/571/6875/front_en.3.400.jpg",
+    "ingredients_text": "Purified Water, Glycerin, Acrylates/-C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Allantoin, Sodium Gluconate,\nCetearyl Alcohol,\nGlyceryl Stearate (and) PEG-100 Stearate, Olive Oil PEG-7 Esters, Cetyl Alcohol, Stearic Acid, Caprylic/-Capric Triglyceride, Isopropyl Myristate, Methylchlo-roisothiazolinone (and) Methylisothiazolinone, Phen-\noxyethanol, Decyl Glucoside, Juglans Regia (Walnut) Shell Powder, Melia Azadirachta Leaf Extract, Aloe Barbadensis (Aloevera) Leaf Extract, Melaleuca Alterifolia (Tea Tree) Leaf Oil, Ocimum Sanctum Leaf Extract, Fragrance, Cl 61570, CI 19140.",
+    "lang": "en",
+    "product_name": "Tea Tree and neem",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Nykaa",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8904245706579",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/424/570/6579/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Nykaa Wanderlust Japanese Cherry Blossom Body Lotion",
+    "quantity": ""
+  }
+]

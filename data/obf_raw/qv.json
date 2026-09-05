@@ -1,0 +1,35 @@
+[
+  {
+    "brands": "Qv",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "9314839012952",
+    "countries_tags": [
+      "en:argentina",
+      "en:saudi-arabia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/931/483/901/2952/front_es.5.400.jpg",
+    "lang": "es",
+    "product_name": "Qv"
+  },
+  {
+    "brands": "QV",
+    "categories_tags": [
+      "en:face",
+      "en:facial-creams"
+    ],
+    "code": "9314839014611",
+    "countries_tags": [
+      "en:australia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/931/483/901/4611/front_en.4.400.jpg",
+    "ingredients_text": "Aqua (Water), Petrolatum, Paraffinum Liquidum, Glycerin, Cyclopentasiloxane, Cyclohexasiloxane, Cetearyl Alcohol, Dimethicone, Behentrimonium Methosulfate, 1,2-Hexanediol, Caprylyl Glycol.",
+    "lang": "en",
+    "product_name": "QV intensive cream",
+    "quantity": "100g"
+  }
+]

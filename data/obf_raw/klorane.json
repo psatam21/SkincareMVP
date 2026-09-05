@@ -1,0 +1,1029 @@
+[
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:Mains",
+      "en:Si\u00e8ge",
+      "en:Visage"
+    ],
+    "code": "3282770104752",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/4752/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Lait de toilette",
+    "quantity": "750ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-conditioners"
+    ],
+    "code": "3282770140972",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/0972/front_fr.5.400.jpg",
+    "lang": "fr",
+    "product_name": "Apr\u00e8s-shampooing \u00e0 la mangue"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282770206524",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/6524/front_fr.13.400.jpg",
+    "ingredients_text": "WATER (AQUA), C12-15 ALKYL BENZOATE, DICAPRYLYL CARBONATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, DIETHYLHEXYL BUTAMIDO TRIAZONE, DIISOPROPYL ADIPATE, BUTYL METHOXYDIBENZOYLMETHANE, CETEARYL ISONONANOATE, LAURYL GLUCOSIDE, POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE, DECYL GLUCOSIDE, C10-18 TRIGLYCERIDES, CALOPHYLLUM INOPHYLLUM SEED OIL, COCOS NUCIFERA (COCONUT) OIL (COCOS NUCIFERA OIL), GARDENIA TAITENSIS FLOWER. BENZOIC ACID, CAPRYLYL GLYCOL, CITRIC ACID. DISODIUM EDTA, FRAGRANCE (PARFUM), GLYCERYL BEHENATE, GLYCERYL DIBEHENATE, GLYCINESOJA (SOYBEAN)OIL (GLYCINE SOJA OIL), POLYACRYLATE-13, POLYISOBUTENE. POLYSORBATE 20, PROPYLENE GLYCOL, SORBITAN ISOSTEARATE, TOCOPHEROL, TOCOPHERYL ACETATE, TRIBEHENIN, XANTHAN GUM",
+    "lang": "fr",
+    "product_name": "Spray solaire sublime",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants"
+    ],
+    "code": "3282779182409",
+    "countries_tags": [
+      "en:france",
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/918/2409/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "d\u00e9odorant tr\u00e8s doux \u00e0 l'alth\u00e9a blanc",
+    "quantity": "40ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282770208689",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/8689/front_de.7.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Trockenshampoo",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282770145366",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/5366/front_fr.10.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampoing"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3282770144161",
+    "countries_tags": [
+      "en:belgium"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/4161/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Gel douche nutrition au Cupua\u00e7u",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282770147292",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/7292/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampoing"
+  },
+  {
+    "brands": "Klorane",
+    "code": "0280540206500",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/028/054/020/6500/front_it.3.400.jpg",
+    "lang": "it",
+    "product_name": "Huile sec solaire"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:dietary-supplements",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282770107012",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/7012/front_fr.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Keratincaps",
+    "quantity": "19,5 g (30 capsules)"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282779008693",
+    "countries_tags": [
+      "en:australia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/900/8693/front_en.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Gentle Dry Shampoo",
+    "quantity": ""
+  },
+  {
+    "brands": "klorane",
+    "code": "3282770206500",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/6500/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "polysianes"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:dietary-supplements",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282779057653",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/905/7653/front_fr.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Quinoral",
+    "quantity": "25 g"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3282770145069",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/5069/front_fr.3.400.jpg",
+    "ingredients_text": "WATER (AQUA)*. DISODIUM LAURETH SULFOSUCCINATE. DECYL GLUCOSIDE. JETEARE 1-60 MYRISTYL GLYCOL LAURYL BETAINE, LAURETH-3. PROPYLENE GLYCOL*. PAEONIA A ROOT EXTRACT, CAPRYLYL GLYCOL CITRIC ACID. FRAGRANCE (PARFUM). MALEIC QUATERNIUM-22. RED 33 (CI 17200). SODIUM BENZOATE. SODIUM CHLORIDE ETHYLENEDIAMINE DISUCCINATE. diants d'origine naturelle 0% este surfactants / Silicone/Mineral oil Tensloactifs sulfates/Silicone/Hulles min\u00e9rales val origin Ingredients re Fabre Cosm\u00e9tique as Klorane 3SBEE lace Abel-Gance - 92100 Boulogne - Paris - France aurus-81500 Lavaur - France F adir Limited-250 Longwater Avenue G26GP-UK www.lo.com VENTE R\u00c9SERV\u00c9E AUX DISTRIBUTEURS AGR\u00c9ES JF - CNK: 4277380 - 34261P - 330 503 12M 3 282770 145069",
+    "lang": "fr",
+    "product_name": "shampoings a la pivoine bii",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:hygiene",
+      "en:shampoos",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3282770206760",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/6760/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Gel douche",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "klorane",
+    "code": "3282779384117",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/938/4117/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Shampoo w\u00fcstendattel",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282779007627",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "en",
+    "product_name": "Shampooing",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:Corps",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282770113198",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/011/3198/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Lait corps"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0673914926867",
+    "countries_tags": [
+      "en:canada",
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/067/391/492/6867/front_en.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3282770145236",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/5236/front_fr.3.400.jpg",
+    "ingredients_text": "WATER (AQUAY DECY. QUICOSOP SCOAM COCOYL SHONAE DOCCAMAUSER SAPOLCCAME DRODUM COCOAMPHODIACEAE ACTYLATES CORCEMER CONTAUREA CHINES ROWER WALE AUTHENGYCO CAPRYLYL GLYCOL CELLARETHA WIRSTY, GLYCOL CIRC KODY COCOGLUCOSIDE COCONUT ACE DE VIOLE 04/30 FRAGRANCE (UM GLYCERY OLAP GUCOL STARK WYCHOGENATED VAGEABLE CCRE ORAIP LAURETHS MALIC ACD POLYQUATERNUM",
+    "lang": "fr",
+    "product_name": "shampoing klorane dejaunissant",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-conditioners"
+    ],
+    "code": "3282770141436",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/014/1436/front_en.3.400.jpg",
+    "ingredients_text": "Water (aqua), hydroxypropyl strach phosphate, ceteryl alcohol, behenamidropyl dimethylamine, glycerin, coco-caprylate /caprate, 1,2-hexanediol, cinchona succirubra bark extract, leontopodium alpinum flower/leaf extract, caffeine, biotin, niacinamide, panthenol, helianthus annuus (sunflower) seed oil (helianthus annuus seed oil), alcohol, benzoic acid, ceteareth-33, citric acid, fragrance (parfum), lactic acid, pantolactone, potassium sorbate, pyridoxine HCl, sodium benzoate, tocopherol, trisodium ethylenediamine disuccinate",
+    "lang": "fr",
+    "product_name": "apr\u00e8s-shampoing \u00e0 la Quinine & Edelweiss",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3282770106572",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/6572/front_fr.9.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Klorane",
+    "quantity": "25 ml"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "fr:16.9"
+    ],
+    "code": "3282770104882",
+    "countries_tags": [
+      "en:senegal"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/4882/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "klorane b\u00e9b\u00e9",
+    "quantity": "500ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282770201147",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/1147/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampooing \u00e0 la quinine",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "en:Cheveux"
+    ],
+    "code": "3282779061063",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/906/1063/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "shampoing"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:soaps",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3282770112511",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/011/2511/front_fr.12.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Savon creme",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3282770201260",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/020/1260/front_fr.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Fortifiant & Stimulant Shampooing \u00e0 la Quinine et aux Vitamines B",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282770002737",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/000/2737/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Soin d\u00e9m\u00ealant",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282779420747",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/942/0747/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Eau florale d\u00e9maquillante",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282770107753",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/7753/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Shampoing pivoine de Chine",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:dry-shampoos"
+    ],
+    "code": "3282779049535",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/904/9535/front_fr.7.400.jpg",
+    "ingredients_text": "BUTANE. PROPANE. ISOBUTANE. ORYZA SATIVA (RICE). STARCH (ORYZA SATIVA STARCH). SD ALCOHOL 39-C (ALCOHOL DENAT). ALUMINUM STARCH OCTENYESUCCINATE. AVENA SATIVA (OAT). KERNEL OIL (AVENA SATIVA KERNEL OIL). BENZYL SALICYLATE. CETRIMONIUM CHLORIDE. CYCLODEXTRIN. CYCLOHEXASILOXANE. CYCLOPENTASILOXANE. FRAGRANCE (PARFUM). HEXYL CINNAMAL. ISOPROPYL MYRSTATE. LIMONENE. SILICA.",
+    "lang": "fr",
+    "product_name": "Shampooing sec au lait d'avoine",
+    "quantity": "300 ml (2x150ml)"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3282779024884",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/902/4884/front_fr.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Gel douche surgras sans savon",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:natural-extract-shampoos",
+      "en:nettle-shampoos",
+      "en:shampoos-for-oily-hair"
+    ],
+    "code": "3282779007603",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/900/7603/front_fr.8.400.jpg",
+    "ingredients_text": "WATER (AQUA), SODIUM LAURETH SULFATE, PROPYLENE GLYCOL, COCO-GLUCOSIDE, LAURYL BETAINE POLYSORBATE 20, ASCORBYL PALMITATE, CARAMEL CETEARETH-60 MYRISTYL GLYCOL, CITRIC ACID, FRAGRANCE (PARFUM),.GLYCERYL OLEATE, GREEN 3 (CI 42053), HYDROGENATED PALM GLYCERIDES CITRATE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, LECITHIN, PHENOXYETHANOL, SODIUM BENZOATE, SODIUM CHLORIDE, TOCOPHEROL, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, URTICA DIOICA (NETTLE) ROOT EXTRACT (URTICA DIOICA ROOT EXTRACT).",
+    "lang": "fr",
+    "product_name": "S\u00e9bor\u00e9ducteur",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:anti-dandruff-shampoos"
+    ],
+    "code": "3282770106299",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/6299/front_en.3.400.jpg",
+    "ingredients_text": "WATER (AQUA), SODIUM LAURETH SULFATE, AMMONIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, SALICYLIC ACID, UNDECYLENAMIDOPROPYL BETAINE, BENZOIC ACID, CETEARETH-60 MYRISTYL GLYCOL, FRAGRANCE (PARFUM), METHYLISOTHIAZOLINONE, POLYQUATERNIUM-10, RED 4 (CI 14700), SODIUM CHLORIDE, SODIUM SULFATE, TRIETHANOLAMINE, TROPAEOLUM MAJUS EXTRACT, YELLOW 6 (CI 15985).",
+    "lang": "fr",
+    "product_name": "Antipelliculaire",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779338721",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Klorane Bebe Gentle Foaming Gel Body And Hair 2X500ML (bath)",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282779131469",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/913/1469/front_fr.3.400.jpg",
+    "lang": "fr"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282770112436",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/011/2436/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Gel douche au beurre de Cupua\u00e7uu bio",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3282770107739",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/7739/front_fr.13.400.jpg",
+    "ingredients_text": "WATER (AQUA). SODIUM LAURETH SULFATE. ZINC COCETH SULFATE. CETEARETH-60 MYRISTYL GLYCOL. COCO-GLUCOSIDE. CARAMEL. CITRIC ACID. FRAGRANCE (PARFUM). HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE. PAEONIA LACTIFLORA ROOT EXTRACT. PROPYLENE GLYCOL. RED 33 (CI 17200). SODIUM BENZOATE. SODIUM CHLORIDE. SODIUM HYDROXIDE. TRISODIUM ETHYLENEDIAMINE DISUCCINATE.",
+    "lang": "fr",
+    "product_name": "Shampooing \u00e0 La Pivoine",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane, Laboratoires Klorane, Pierre Fabre",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:shampoos-for-colored-hair"
+    ],
+    "code": "3282770106329",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/6329/front_fr.7.400.jpg",
+    "ingredients_text": "WATER (AQUA), SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE MIPA, PROPYLENE GLYCOL, ALCOHOL, CAPRYLYL GLYCOL, CITRIC ACID, FRAGRANCE (PARFUM), GLYCOL PALMITATE, GLYCOL STEARATE, GUAR HYDROXYPROPYLTRMINIUM CHLORIDE, PHENOXYETHANOL, POLYQUATERNIUM-10, POLYQUATERNIUM-22, PUNICA GRANATUM EXTRACT, RED 40 (Cl 16035), SODIUM BENZOATE, SODIUM CHLORIDE, SODIUM HYDROXlDE, TRISODIUM ETHYLENEDIAMINE DISUCCINATE.",
+    "lang": "fr",
+    "product_name": "Eclat couleur : shampooing \u00e0 la grenade cheveux color\u00e9s",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants"
+    ],
+    "code": "3282779182416",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/918/2416/front_fr.4.400.jpg",
+    "ingredients_text": "Water (Aqua)\u201aDiprolene Glycol\u201aPeg-40 Hydrogenated castor oil\u201aPpg-1Peg9 Lauryl Glycol Ether\u201a",
+    "lang": "fr",
+    "product_name": "D\u00e9odorant tr\u00e8s doux",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "Klorane, Pierre Fabre",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:anti-dandruff-shampoos"
+    ],
+    "code": "3282779007504",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/900/7504/front_fr.4.400.jpg",
+    "ingredients_text": "WATER (AQUA), SODIUM LAURETH SULFATE, AMMONIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, SALICYLIC ACID,  UNDECYLENAMIDOPROPYL BETAINE, BENZOIC ACID, CETEARETH40 MYRISTYL GLYCOL, FRAGRANCE (PARFUM),  METHYLISOTHIAZOLINONE, POLYQUATERNIUM-10, RED 4 (Cl 14700), SODIUM CHLORIDE, SODIUM SULFATE, TRIETHANOLAMINE, TROPAEOLUM MAJUS EXTRACT, YELLOW 6 (Cl 15985).",
+    "lang": "fr",
+    "product_name": "Shampooing Antipelliculaire \u00e0 L'extrait De Capucine",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282770074161",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": ".? WATER (AQUA), SODIUM LAURETH SULFATE, GLYCERIN. SODIUM COCOAMPHOACEIE GLYCOL PEG-40 HYDROGENATED CASTOR PALMITATE, CITRIC ACD, COCOGLUCOSIDE. FRAGRANCE (PARFUM). GLYCE?/L GREEN (Cl CHALCONE. HYDROGENATED PALM GLYCERIDES cruri. (DROXYPROPYLTRIMONIUM CHLORIDE. LECITHIN, LIMONENE. MAGNESIUM SULFATE, MAGNESIUM OLETH SULFATE, OLEA EUROPAEA (OLIVE) (OLEA FRUIT PHENOXYETHANOL PROPANEDIOL RED 33 (Cl 170). ACD, SODIUM BENZOATE, SODIUM CHLORDE, SODIUM TOCOPHEROL TOCOPHERYL NICOTINATE, TRISODIUM ETH(LENEDIAMINE DSJCCI)AE",
+    "lang": "fr",
+    "product_name": "Klorane Shampooing \u00e0 L'extrait Essentiel D'olivier",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779326889",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "(AQiJA). PEG-8. GLYCERN, COCOTGLUCOSIDE CALENDULA )",
+    "lang": "fr",
+    "product_name": "Klorane Bebe Cleansing Micellar Water No Rinse Formula 750ML (cleanser)",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths",
+      "en:shower-gels"
+    ],
+    "code": "3282779399036",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/939/9036/front_fr.14.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Gel douche Corps et Cheveux Doux Petit Junior",
+    "quantity": "500 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779374620",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/937/4620/front_fr.5.400.jpg",
+    "ingredients_text": "Water (Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Butylene Glycol, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Titanium Dioxide (Nano), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate, Butyl Methoxydibenzoylmethane, Glyceryl Stearate, Peg-100 Stearate, Potassium Cetyl Phosphate, VP/Eicosene Copolymer, Benzoic Acid, Calendula Officinalis Flower Extract, Caprylyl Glycol, Decyl Glucoside, Dimethicone, Disodium Edta, Ethylhexyl Palmitate, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Silica, Sodium Hydroxide, Sorbitan Isostearate, Stearyl Alcohol, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum.",
+    "lang": "fr",
+    "product_name": "Cr\u00e8me solaire Enfant SPF 50+ Peaux sensibles & Visage",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "3282779168519",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/916/8519/front_fr.4.400.jpg",
+    "ingredients_text": "Aqua, C12-15 Alkyl Benzoate, Methylene Bis-Benzotriazoyl Tetramethylbutylphenol, Diethylhexyl Butamino Triazone, Diisopropyl Adipate, Pentaerithrityl Tetracaprylate/Tetracaprate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Aluminum Starch Octenysucocinate, Butyl Methoxidibenzoylmethane, Butylene Glycol, Potassium Cetyl Phosphate, Decyl Glucoside, Glyceryl Stearate, Peg-100 Stearate, Acrylates /C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Calendula Officinalis flower Extract, Caprylyl Glycol, Disodium EDTA, Ethylhexyl Palmitate, Frarance (Parfum), Glyceryl behenate, Glyceryl Dibehenate, Hydrogenated Palm Glycerides, Hydrogenated Palm Kernel Glycerides, Propylene Glycol, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Tribehenin, Xanthan Gum.",
+    "lang": "fr",
+    "product_name": "Lait solaire tr\u00e8s haute protection SPF 50+",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "fr:B\u00e9b\u00e9",
+      "fr:Enfant"
+    ],
+    "code": "3282779411189",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/941/1189/front_fr.7.400.jpg",
+    "ingredients_text": "water (aqua), C12-15 alkyl benzoate, dicaprylyl carbonate methylene bis-benzotriazolyl tetramethylbutylphenol (nano), glycerin, bis-ethylhexyloxphenol methoxyphenyl triazine, diethylhexyl butamido triazone, diisopropyl adipate butyl methoxydibenzoylmethane, cetearyl isononanoate, lauryl glucoside, polyglyceryl-2, dipolyhydroxystearate, decyl glucoside, C10-18 triglycerides, benzoic acid, calendula officinalis flower extract, caprylyl glycol, citric acid, disodium EDTA, ethylhexyl palmitate, fragrance (parfum), glyceryl behenate, glyceryl dibehenate, polyacrylate-13, polyisobutene, polysorbate 20, propylene glycol, sorbitan, isostearate, tocopherol, tocopheryl acetate, tribehenin, xanthan gum.",
+    "lang": "fr",
+    "product_name": "Spray Solaire enfant au calendula protecteur SPF50+ visage et corps",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:dry-shampoos"
+    ],
+    "code": "3282779008686",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/900/8686/front_fr.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Shampooing sec \u00e0 l'ortie",
+    "quantity": "150 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:face",
+      "en:cleansers",
+      "en:eye-makeup-remover"
+    ],
+    "code": "3282779420716",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/942/0716/front_fr.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Lotion florale d\u00e9maquillante",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779393232",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Water ethylhexyl palmitate glycerin polysorbate 40 sorbitan palmitate acrylates/c10-30 alkyl acrylate crosspilymer calendula officinalis flower extract chlorphensin cyclopentasiloxane dimethiconol fragrance phenoxethanol triethanolamine trisodium edta can than gum",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Moisturizing Lotion 500 Ml.",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779398992",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Sodium Cocoyl Apple Amino Acids, Acrylates Copolymer, Glycol Distearate, Benzoic Acid, Cetearyl Glucoside, Citric Acid, Cocamide MEA, Dehydroacetic Acid, Ethylhexylglycerin, Parfum (Fragrance), Glycerin, Glyceryl Stearate SE, Gossypium Herbaceum (Cotton) Seed Oil (Gossypium Herbaceum Seed Oil), Hexylene Glycol, Hydroxyethylcellulose, Laureth-10, Methylisothiazolinone, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-10, Red 4 (CI 14700), Sodium Benzoate, Sodium Hydroxide, Sodium Sulfate, Tetrasodium EDTA, Xanthan Gum, Yellow 6 (CI 15985).",
+    "lang": "fr",
+    "product_name": "Klorane Petit Junior Shampoing d\u00e9m\u00ealant p\u00eache",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "klorane",
+    "categories_tags": [
+      "fr:Non alimentaire",
+      "fr:Open Beauty Facts"
+    ],
+    "code": "3282779286800",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/928/6800/front_fr.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "gel douche surgras jardin aquatique",
+    "quantity": ""
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779327046",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Water (Aqua), cyclomethicone, glycerin, ethylhexyl palmitate, disteardimonium hectorite, sodium chloride, bis-PEG-18 methyl ether dimethyl silane, PEG/PPG-18/18 dimethicone, Elaeis guineensis (palm) oil (elaeis guineensis oil), BHT, Calendula officinalis flower extract, caprylyl glycol, dimethiconol, disodium EDTA, glyceryl linoleate, glyceryl linolenate, glycine soja (soybean) oil, tocopherol, tocopheryl acetate,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Baume apaisant et r\u00e9parateur",
+    "quantity": "40ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779326940",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Water (Aqua), Glycerin, Zinc Oxide, Talc, Zea Mays (Corn) Starch (Zea Mays Starch), Ethylhexyl Palmitate, Magnesium Aluminium Silicate, hydroxyethylcellulose, Squalane, Calendula Officinalis Flower Extract, Citric Acid, Glyceryl Stearate, PEG-100 Stearate, Phenethyl Alcohol,\r\n",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Cr\u00e8me protectrice pour le change",
+    "quantity": "75g"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779317337",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Olea Europea (olive) fruit oil (olea europaea fruit oil), water (aqua), glycerin, caprylic/capric triglyceride, distearimonium, hectorite, elaeis guineensis (palm) oil (elaeis guineensis oil), ethylexhyl palmitate, tocopheryl acetate, BHT, calcium hydroxide, calendula officinalis flower extract, tetrasodium EDTA,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Eryteal Liniment ",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779326919",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Sodium palmate, sodium palm kernelate, water (aqua), fragrance (parfum), glycerin, palm kernel acid, calendula officinalis flower extract, camelina sativia seed oil, ethylexhyl palmitate, prunus amygdalus dulcis (sweet almond) oil (prunus amygdalus dulcis oil), sodium chloride, tetrasodium EDTA, tertrasodium etidronate, ",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Savon surgras tr\u00e8s doux",
+    "quantity": "250g"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779326865",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Aqua, Sodium Laureth Sulfate, Ceteareth-60, Myristyl Glycol, Zinc Coceth Sulfate, Coco Glucoside, Polysorbate 20, Sodium Cocoamphoacetate, Methyl Gluceth-20, Benzoic Acid, Calendula Officinalis Flower Extract, Citric Acid, Disodium Edta, Fragrance, Polyquaternium-10, Polysorbate 80, Propylene Glycol,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Shampooing doux d\u00e9m\u00ealant ",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282770055023",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Water (Aqua), Glycerin, Pentaerythrityl Tetracaprylate/Tetra Caprate, Caprylic/Capric Triglycerides, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Ethylhexyl Palmitate, Glyceryl Stearate, Palmitic Acid, Peg-100 Stearate, Stearic Acid, Calendula Officinalis Flower Extract, Caprylyl Glycol, Carbomer, Ethylhexylglycerin, Fragrance (Parfum), Glyceryl Linoleate, Glyceryl Linolenate, Glycine Soja (Soybean) Oil (Glycine Soja Oil) Isoleucine, Sodium Benzoate, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Xanthan Gum,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Cr\u00e8me hydratante Physio Calenduline",
+    "quantity": "40ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779327039",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Water (aqua), glycerin, propylene glycol, polysorbate 40, PEG-7 glyceryl cocoate, sorbitan palmitate, benzoic acid, calendula officinalis flower extract, caprylyl glycol, disodium edta, ethylhexyl palmitate, fragrance (parfum), sodium hyroxide,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Lingettes nettoyantes douceur au lait de toilette",
+    "quantity": "70 lingettes"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779053266",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Aqua, Mineral Oil, (Paraffinum Liquidum), Zinc Oxide, Caprylic/capric triglyceride, glycerin, hydrogenated vegetable oil, Peg-30 Dipolyhdroxystearate, propylene glycole, ethylhexyl palmitate, peg-22/dodecyl glycol copolymer, olea europaea (olive) fruit oil (olea europaea fruit oil), Allantoin, calendula officinalis flower extract, glyceryl linoleate, glyceryl linoleate, glycine soja (soybean) oil (glycine soja oil), Magnesium sulfate, tocopherol, tocopheryl acetate, zinc sulfate,",
+    "lang": "fr",
+    "product_name": "Klorane B\u00e9b\u00e9 Eryteal Pommade",
+    "quantity": "75g"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779282390",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, sodium cocoyle apple amino acids, Cocamidopropyl Betaine, acrylates copolymer, Glycol Distearate, benzoic acid, cetearyl glucoside,  Citric Acid, Cocamide Mea, dehydroacetic acid, ethylhexylglycerin, Parfum (Fragrance), glycerin, glyceryl stearate SE, Gossypium Herbaceum seed oil (Gossypium Herbaceum seed oil), hexylene glycol, Hydroxyethylcellulose, Laureth-10, methylisothiazolinone, Panthenol, phenoxyethanol, Polyquaternium-10, Propylene Glycol, Sodium benzoate, sodium hydroxide, tetrasodium edta, xanthan gum,",
+    "lang": "fr",
+    "product_name": "Klorane Petit Junior Gel Douche \u00e0 la Poire ",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:body",
+      "en:body-oils"
+    ],
+    "code": "3282770107951",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/010/7951/front_fr.4.400.jpg",
+    "ingredients_text": "Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) See Oil (Carthamus TInctorius Seed Oil), Oenothera Biennis (Evening Primrose) Oil (Oenothera Biennis Oil) Camelia Sativa Seed Oil, Olea Europaea (Olive) Fruit Oil (Olea Europaea Fruit Oil), Fragrance (Parfum), Tocopherol, Tocopheryl Acetate.",
+    "lang": "fr",
+    "product_name": "Huile vergetures",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane, Pierre Fabre",
+    "categories_tags": [],
+    "code": "3282779058223",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/905/8223/front_fr.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "cr\u00e8me de jour sans rin\u00e7age au beurre de mangue",
+    "quantity": "125 ml"
+  },
+  {
+    "brands": "KLORANE",
+    "categories_tags": [],
+    "code": "3282779007528",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/900/7528/front_fr.7.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Shampoing \u00e0 la centauree",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:shampoo-for-dry-hair"
+    ],
+    "code": "3282770038965",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/003/8965/front_fr.10.400.jpg",
+    "ingredients_text": "WATER (AQUA), SODIUM LAURETH SULFATE, PEG-7 GLYCERYL COCOATE, OLIVE OIL GLYCERETH-8 ESTERS, SODIUM LAUROYl METHYL ISETHIONATE, LAURYL BETAINE, GLYCOL DISTEARATE, DECYL GLUCOSIDE, BALANITES AEGYPTIACA SEED EXTRACT, BENZOIC ACID, CARAMEL, CITRIC ACID, COCAMIDE MEA, DISODIUM EDTA, FRAGRANCE (PARFUM), HYDROLYZED WHEAT PROTEIN, LAURETH-10, LAURIC ACID, LIMONENE, MALTODEXTRIN, POLYQUATERNIUM-10, SODIUM BENZOATE, SODIUM CHLORIDE, SODIUM METHYL ISETHIONATE, TOCOPHEROL, YELLOW 6 (CI 15985)",
+    "lang": "fr",
+    "product_name": "Shampooing nutri-r\u00e9paration au dattier du d\u00e9sert",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-conditioners"
+    ],
+    "code": "3282770073782",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/007/3782/front_fr.15.400.jpg",
+    "ingredients_text": "Water (Aqua), Diisopropyl Adipate, Glycol Palmitate, Behenyl Alcohol, Behentrimonium Chloride, Cetearyl Alcohol, Propylene Glycol, Ricinus Caommunis (Castor) Seed Oil (Ricinus Communis Seed Oil), Balanites Aegyptiaca Seed Extract, Benzoic Acid, Bht, Caramel, Cetearyl Glucoside, Fragrance (Parfum), Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Wheat Protein, Isopropyl Alcohol, Limonene, Maltodextrin, Phenoxyethanol Salicylic Acid, Sodium Benzoate, Tocopherol, Yellow 6 (CI15985).\r\n",
+    "lang": "fr",
+    "product_name": "Nutri-r\u00e9paration",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-conditioners",
+      "en:hair-conditioners-for-damaged-hair"
+    ],
+    "code": "3282770073676",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/007/3676/front_fr.5.400.jpg",
+    "ingredients_text": "WATER (AQUA), DIMETHICONE, CETYL ALCOHOL, HYDROXYPROPYL METHYCELLULOSE, ALCOHOL, BIOTIN, BUtYROSFERMUM PARKII (SHEA), BUTTER (BUTYROSPERMUM PARKII BUTTER), CARAMEL,CINCHONA CALISAYA BARK EXTRACT, DMDM HYDANTOIN, FRAGRANCE (PARFUM), GLYCERIN, PANTHENOL, PANTOLACTONE, PYRIDOXINE HCL, RED 4 (Cl 14700). SODIUM CHLORIDE, SODIUM HYDROXIDE, SODIUM SULFATE, STEARALKONIUM CHLORIDE.",
+    "lang": "fr",
+    "product_name": "Apr\u00e8s shampooing fortifiant et stimulant",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane",
+    "code": "3282779038126",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Shampoing \u00e0 la pivoine",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Klorane",
+    "categories_tags": [],
+    "code": "3282779077118",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/907/7118/front_fr.5.400.jpg",
+    "ingredients_text": "Water(Aqua), Sodium Laureth Sulfate, Cocamide mipa, Cocamidopropyl Betaine, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceyl Palmate, Sodium Chloride, PEG-45 Palm Kernel Glycerides, Benzotriazoyl Dodecyl P-Cresol, Blue 1 ( CI42090), Fragrance (Parfum), Methylisothiazolinone, PEG-7 Glyceyl Cocoate, Populus Nigra Bud Extract, Potassium Sorbate, Propylene Glycol",
+    "lang": "fr",
+    "product_name": "",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Klorane, Pierre Fabre",
+    "categories_tags": [
+      "en:body",
+      "en:hair",
+      "en:body-oils",
+      "en:hair-care"
+    ],
+    "code": "3282779062671",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/328/277/906/2671/front_fr.5.400.jpg",
+    "ingredients_text": "Elaeis Guineesis (Palm) Kernel Oil (Elaeis Guineesis Kernel Oil), Cocos Nucifera (Coconut) Oil (Cocos Nucifera Oil), Gardenia Tahitensis Flower, Benzyl Salicylate, BHT, Cinnamyl Alcohol, Citronellol, Fragance (Parfum), Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool, Morinda Citrifolia Fruit Extract, Propylene Glycol, Tocopherol, Tocopheryl Acetate",
+    "lang": "fr",
+    "product_name": "Polysianes Huile de beaut\u00e9 Monoi morinda",
+    "quantity": "125 ml"
+  }
+]

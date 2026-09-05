@@ -1,0 +1,84 @@
+[
+  {
+    "brands": "Embryolisse",
+    "categories_tags": [],
+    "code": "3350900001865",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "Soin Booster Cils",
+    "quantity": ""
+  },
+  {
+    "brands": "Embryolisse",
+    "categories_tags": [],
+    "code": "3350900002640",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/335/090/000/2640/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Soin SOS de Peau Correcteur apaisant anti-rougeurs",
+    "quantity": "30ml"
+  },
+  {
+    "brands": "Embryolisse",
+    "categories_tags": [],
+    "code": "3350900002015",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Soin Correcteur Anti-Cernes",
+    "quantity": "8ml"
+  },
+  {
+    "brands": "Embryolisse",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:Hydrate face cream",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "00002739",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/000/000/2739/front_en.4.400.jpg",
+    "ingredients_text": "AQUA (WATER). PARAFFINUM LIQUIDUM. STEARIC ACID. PALMITIC ACID. GLYCERYL STEARATE SE. TRIETHANOLAMINE. CERA ALBA (BEESWAX). CETYL PALMITATE. BUTYROSPERMUM PARKI (SHEA) BUTTER. 1,2-HEXANEDIOL. CAPRYLYL GLYCOL. STEARETH-10. POLYACRYLA - MIDE. C13-14 ISOPARAFFIN. PARFUM (FRAGRANCE). LAURETH-7. PROPYLENE GLYCOL. TROPOLONE. HYDROLYZED SOY PROTEIN. ALOE BARBADENSIS LEAF EXTRACT.",
+    "lang": "en",
+    "product_name": "Embryolisse",
+    "quantity": "1"
+  },
+  {
+    "brands": "embryolisse",
+    "categories_tags": [
+      "fr:Cosm\u00e9tique"
+    ],
+    "code": "3350900001360",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/335/090/000/1360/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "mascara sourcil volumateur",
+    "quantity": "5 ml"
+  },
+  {
+    "brands": "embryolisse",
+    "code": "3350900000233",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/335/090/000/0233/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Cr\u00e8me hydratante a l' orange",
+    "quantity": "1"
+  }
+]

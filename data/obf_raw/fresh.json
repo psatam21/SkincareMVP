@@ -1,0 +1,62 @@
+[
+  {
+    "brands": "fresh",
+    "code": "0809280158278",
+    "countries_tags": [
+      "en:hong-kong"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/080/928/015/8278/front_en.9.400.jpg",
+    "ingredients_text": "Solum Fullonum (Fuller's Earth), Water, Glycerin, Butylene Glycol, Pentylene Glycol, Cocamidopropyl Betaine, Vitis Vinifera (Grape) Seed Oil, Xanthan Gum, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Parfum (Fragrance), C15-19 Alkane, Polyglyceryl-6 Laurate, Polyglycerin-6, Sorbitan Oleate, Sorbitan Isostearate, Citric Acid, Chlorphenesin, Linalool, Farnesol",
+    "lang": "en",
+    "product_name": "Umbrian Clay Purifying Mask",
+    "quantity": "4 mL"
+  },
+  {
+    "brands": "Fresh",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0809280139611",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "lang": "en",
+    "product_name": "Rose Deep Hydration Facial Toner"
+  },
+  {
+    "brands": "fresh",
+    "code": "0809280138300",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/080/928/013/8300/front_en.3.400.jpg",
+    "ingredients_text": "Glycerin, Sucrose, Butylene Glycol, Fragaria Vesca (Strawberry) Fruit Extract, PEG-6 Caprylic/Capric Glycerides, Ribes Nigrum (Black Currant) Fruit Extract, Zea Mays (Corn) Starch, Vitis Vinifera (Grape) Seed Oil, Fragaria Ananassa (Strawberry) Fruit Juice, Sapindus Mukorossi Peel Extract, Tocopherol, Parfum (Fragrance), Aqua (Water), Carbomer, Sodium Hydroxide, BHT, Potassium Sorbate, Phenoxyethanol, Limonene, Citral, Benzyl Alcohol, Linalool.",
+    "lang": "en",
+    "product_name": "Travel Size Sugar Strawberry Exfoliating Face Wash"
+  },
+  {
+    "brands": "fresh",
+    "code": "0809280149078",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/080/928/014/9078/front_en.3.400.jpg",
+    "ingredients_text": "Aqua (Water), Coco-Glucoside, Glycerin, Butylene Glycol, PEG-7 Glyceryl Cocoate, Xanthan Gum, Glycine Soja (Soybean) Oil, Helianthus Annuus (Sunflower) Seed Oil, Borago Officinalis Seed Oil, Aloe Barbadensis Leaf Juice, Cucumis Sativus (Cucumber) Fruit Extract, Rosa Damascena Extract, Rosa Damascena Flower Water, Centaurea Cyanus Flower Extract, Glycine Soja (Soybean) Sterols, Panax Ginseng Root Extract, Rosa Damascena Flower Oil, Malva Sylvestris (Mallow) Flower Extract, Tocopherol, Ascorbyl Palmitate, PEG-120 Methyl Glucose Dioleate, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Polysorbate 20, Caprylic/Capric Triglyceride, Silica, Benzoic Acid, Disodium EDTA, Citric Acid, Behenyl Alcohol, Glyceryl Stearate, Lecithin, Pentylene Glycol, Hydrolyzed Soy Protein, Caramel, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol.",
+    "lang": "en",
+    "product_name": "Travel Size Soy Face Cleanser"
+  },
+  {
+    "brands": "Fresh",
+    "code": "0809280117954",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/080/928/011/7954/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Seaberry hand cream",
+    "quantity": "70 ml"
+  }
+]

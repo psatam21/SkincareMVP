@@ -1,0 +1,405 @@
+[
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:anti-dandruff-shampoos"
+    ],
+    "code": "4103040117250",
+    "countries_tags": [
+      "en:czech-republic"
+    ],
+    "ingredients_text": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Sodium Lauroyl Sarcosinate, Sodium Chloride, Piroctone Olamine, Lactic Acid, Sodium Benzoate, Phenoxyethanol, Sodium Lactate, Parfum, Glycol Distearate, Hydroxypropyl Oxidized Starch PG-Trimonium Chloride, Sodium Citrate, Cocamidopropyl Betaine, Laureth-4, Citric Acid, Pinene, Glycerin.",
+    "lang": "en",
+    "product_name": "sebamed anti-dandruff shampoo",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040231017",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/023/1017/front_de.7.400.jpg",
+    "ingredients_text": "Alcohol, Aqua, Triethyl, Citrate, Parfum, Citric Acid, Sodium, Hydroxide, Linalool",
+    "lang": "de",
+    "product_name": "Frische Deo frisch",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "de:Bodylotion"
+    ],
+    "code": "4103040104762",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/010/4762/front_de.7.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Cetearyl Alcohol, Sorbital, Hexyldecanol, Hexyldecyl Laurate, Chamomilla recutita flower extract, Allantoin, Sodium Cetearyl Sulfate, Citric Acid, Sodium Hydroxide, Sodium Acetate, Sodium Ascorbate, Xanthan Gum, Dimethicone, Parfum, Alcohol, Phenoxyethanol, Sodium Benzoate, Benzyl Alcohol",
+    "lang": "de",
+    "product_name": "sebamed Lotion",
+    "quantity": "400ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:incorrect-product-type",
+      "en:showers-and-baths",
+      "en:shower-gels",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040341013",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/034/1013/front_de.4.400.jpg",
+    "ingredients_text": "Aqua, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Disodium Cocoamphodiacetate, Glyceryl Laurate, PEG-7 Glyceryl Cocoate, Parfum, Lactic Acid, Niacinamide, Glycine, Magnesium Aspartate, Alanine, Lysine, Leucine, Allantoin, PEG-150 Distearat, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Sodium Benzoate, Benzyl Alcohol, Citric Acid, Ascorbyl Palmitate, CI 61570, Hexyl cinnamal, Linalool, Limonene.",
+    "lang": "de",
+    "product_name": "sebamed Frische Dusche",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants",
+      "en:deodorants-sticks"
+    ],
+    "code": "4103040138149",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/013/8149/front_de.4.400.jpg",
+    "ingredients_text": "Aqua, Cyclodextrin, Cetearyl Isononanoate, Caprylyl Glycol, Zinc Ricinoleate, Parfum, Xanthan Gum, Hydroxypropyl Starch Phosphate, Malic Acid, Disodium EDTA.",
+    "lang": "de",
+    "product_name": "Balsamdeo sensitiv",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040048967",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "lang": "fr",
+    "product_name": "sebamed shampoo"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-open-products-facts",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040019400",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/001/9400/front_de.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Antischuppenshampoo",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [],
+    "code": "4103040019448",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/001/9448/front_de.4.400.jpg",
+    "ingredients_text": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Sodium Lauroyl Sarcosinate, Sodium Chloride, Hydroxypropyl Oxidized Starch PG-Trimonium Chloride, Piroctone Olamine, Menthol, Parfum, Citric Acid, Phenoxyethanol, Sodium Benzoate",
+    "lang": "de",
+    "product_name": "Antischuppen Shampoo",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "SEBAMED",
+    "categories_tags": [
+      "de:Fu\u00dfpflege"
+    ],
+    "code": "4103040909787",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/090/9787/front_de.3.400.jpg",
+    "ingredients_text": "Aqua, Caprylic/Capric Triglyceride, Urea, Glycerin, Glyceryl Stearate Citrate, Panthenol, Tocopheryl Acetate, Hydrolyzed Keratin, Citric Acid, Sodium Hydroxide, Carbomer, Phenoxyethanol, Sodium Benzoate",
+    "lang": "de",
+    "product_name": "SEBAMED FU\u1e9eCREME",
+    "quantity": "100 ml"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040159328",
+    "countries_tags": [
+      "en:united-arab-emirates"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/015/9328/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Q10 protection cream",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [],
+    "code": "4103040895530",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/089/5530/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "sebamed face wash",
+    "quantity": ""
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:soaps"
+    ],
+    "code": "4103040048363",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/004/8363/front_de.3.400.jpg",
+    "ingredients_text": "Ingredients: Disodium Lauryl Sulfosuccinate, Triticum vulgare starch, Stearic Acid, Palmitic Acid, Cetearyl Alcohol, Aqua, Talc, Lactic Acid, Cocamidopropyl Betaine, Cl 77891, Inulin, Lecithin, Olea europaea fruit oil, Panthenol, Parfum, Phytic Acid, Brassica campestris Sterols, Hydrolyzed Silk, Citric Acid, Aloe barbadensis leaf juice powder.",
+    "lang": "de",
+    "product_name": "Oliven Waschst\u00fcck",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040797018",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/079/7018/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Frische Dusche",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040048264",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "lang": "de",
+    "product_name": "fl\u00fcssig seife",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants"
+    ],
+    "code": "4103040036803",
+    "countries_tags": [
+      "en:austria"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/003/6803/front_de.4.400.jpg",
+    "ingredients_text": "Ingredients: Aqua, Cyclodextrin, Cete - aryl Isononanoate, Caprylyl Glycol, Zinc Ricinoleate, Parfum, Xanthan Gum, Hydroxypropyl Starch Phosphate. Malic Acid, Disodium EDTA.",
+    "lang": "de",
+    "product_name": "DEO SENSITIVE FOR MEN",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8480017132222",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/848/001/713/2222/front_es.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "Baby ba\u00f1o espuma",
+    "quantity": ""
+  },
+  {
+    "brands": "sebamed",
+    "code": "4103040359018",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/035/9018/front_en.3.400.jpg",
+    "ingredients_text": "Aqua, Sodium C14-16 Olefin Sulfonate, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Sodium Chloride, Laureth-2, Panthenol, Glycol Distearate, Parfum, Saccharide Isomerate, Allantoin, Niacinamide, Pyridoxine HCI, Glycine, Magnesium Aspartate, Alanine, Lysine, Leucine, Biotin, Glycerin, Sodium Lauroyl Glutamate, Citric Acid, Cocamidopropyl Betaine, Sorbitan Laurate, PEG-120 Methyl Glucose Dioleate, Phenoxyethanol, Sodium Benzoate, CI 47005, CI 42090.",
+    "lang": "en",
+    "product_name": "Fl\u00fcssig-Wasch-Emulsion",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "SebaMed",
+    "code": "4103040802019",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/080/2019/front_de.8.400.jpg",
+    "lang": "de",
+    "product_name": "Frische Dusche",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "4103040036728",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/003/6728/front_en.4.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Cetearyl Isononanoate,1,2-Hexanediol, Polyglyceryl-3 Caprylate, Bisabolol, Glucose, Glucuronic Acid, Rhamnose, Ethylhexylglycerin, Octenidine HCL, C14-22 Alcohols, C12-20 Alkyl, Glucoside, Propylene Glycol, Propanediol, Xanthan Gum, Citric Acid, Sodium Hydroxide, Parfum.",
+    "lang": "en",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "sebamed",
+    "code": "4103040019899",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/001/9899/front_de.4.400.jpg",
+    "ingredients_text": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Tocopheryl Acetate, Glyceryl Stearate Citrate, Cetearyl Alcohol, Biosaccharide Gum-1, Citrid Acid, Sodium Hydroxide, Sodium Carbomer, Parfum, Benzyl Alcohol, Phenoxyethanol",
+    "lang": "de",
+    "product_name": "sebamed Creme mit 2% Vitamin E",
+    "quantity": "75 ml"
+  },
+  {
+    "brands": "sebamed",
+    "code": "4103040120786",
+    "countries_tags": [
+      "en:georgia"
+    ],
+    "lang": "en",
+    "product_name": "fresh deodorant",
+    "quantity": ""
+  },
+  {
+    "brands": "SebaMed",
+    "categories_tags": [
+      "de:Medizinische Hautpflege"
+    ],
+    "code": "4103040302014",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/030/2014/front_de.14.400.jpg",
+    "ingredients_text": "Disodium Lauryl Sulfosuccinate, Triticum vulgare starch, Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Talc, Lactic Acid, Aqua, Lecithin, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Panthenol, Inulin, Sodium Cocoyl Glutamate, Tocopheryl Acetate, Glycine, Magnesium Aspartate, Alanine, Lysine, Leucine, Benzophenone-4, Tartaric Acid, Parfum, CI 47005, CI 61570, CI 77891.",
+    "lang": "de",
+    "product_name": "Seifenfreies Waschst\u00fcck",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [],
+    "code": "4103040914934",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/091/4934/front_de.8.400.jpg",
+    "ingredients_text": "Disodium Lauryl Sulfosuccinate, Triticum vulgare starch, Stearic Acid, Cetearyl Alcohol, Palmitic Acid, Aloe barbadensis leaf juice, Lactic Acid, Talc, Sodium Lauroyl Sarcosinate, Aqua, Cocamidopropyl Betaine, Olea europaea fruit oil, Panthenol, Inulin, Lecithin, Parfum, Brassica campestris Sterols, Hydrolyzed Silk, Tartaric Acid, CI 77891.",
+    "lang": "de",
+    "product_name": "Seinfenfreies Waschstuck",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Sebamed",
+    "categories_tags": [],
+    "code": "4103040017048",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/001/7048/front_de.6.400.jpg",
+    "ingredients_text": "Aqua, Aloe barbadensis leaf juice, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Glyceryl Oleate, Coco-Glucoside, PEG-7 Glyceryl Cocoate, PEG-120 Methyl Glucose Dioleate, PEG-3 Distearate, Parfum, Allantoin, Prunus Amygdalus Dulcis Seed Extract, Honey Extract, Tocopherol, Hydrogenated Olive Oil Caprylyl Esters, Macadamia Ternifolia Seed Oil, Hydrogenated Lecithin, Glycerin, Sodium Laureth Sulfate, Xanthan Gum, Triheptanoin, Trilaurin, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Sorbic Acid, Benzyl Alcohol, Dehydroacetic Acid, 0-Cymen-5-ol.",
+    "lang": "de",
+    "product_name": "Pflege-Dusche",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "SebaMed",
+    "code": "4103040543011",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/054/3011/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Frische Deo",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "sebamed",
+    "code": "4103040924971",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/092/4971/front_fr.4.400.jpg",
+    "ingredients_text": "Aqua, hexyldecanol, hexyldecyl laurate, glyceryl stearate, panthenol, petrolatum, simmondsia chinensis seed oil, butyrospernum parkii butter, ceteareth-20, cetyl palmitate, ceteartyl alcohol, ceteareth-12, sodium carbomer, sodium citrate, parfum, phenoxyethanol, benzyle alcohol",
+    "lang": "fr",
+    "product_name": "Body-Milk",
+    "quantity": "1000ml"
+  },
+  {
+    "brands": "sebamed",
+    "categories_tags": [
+      "en:hygiene",
+      "en:showers-and-baths"
+    ],
+    "code": "4103040102744",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/410/304/010/2744/front_de.5.400.jpg",
+    "ingredients_text": "Glycine soja oil, Lecithin, MIPA-Laureth Sulfate, Laureth-4, Cocamide DEA, Poloxamer 101, Parfum, Persea gratissima oil, Lactic Acid, Aqua, Caprylic/Capric Triglyceride, Ascorbyl Palmitate, Citric Acid.",
+    "lang": "de",
+    "product_name": "Dusch\u00f6l mit Avocado\u00f6l und Lecithin",
+    "quantity": "200 ml"
+  }
+]

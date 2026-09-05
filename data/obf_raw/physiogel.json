@@ -1,0 +1,32 @@
+[
+  {
+    "brands": "Physiogel",
+    "code": "4898801052146",
+    "countries_tags": [
+      "en:hong-kong"
+    ],
+    "lang": "en",
+    "product_name": "Dailimune ampoule serum",
+    "quantity": "7 x 1mL"
+  },
+  {
+    "brands": "Physiogel",
+    "code": "9555601000153",
+    "countries_tags": [
+      "en:hong-kong"
+    ],
+    "lang": "en",
+    "product_name": "Daily moisture therapy cream",
+    "quantity": "10 mL"
+  },
+  {
+    "brands": "Physiogel",
+    "code": "4026600682626",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "lang": "de",
+    "product_name": "Calming Relief A.I. Body Lotion",
+    "quantity": "200 ml"
+  }
+]

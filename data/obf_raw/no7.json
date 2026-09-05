@@ -1,0 +1,52 @@
+[
+  {
+    "brands": "No7",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5045091726540",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Energising face scrub",
+    "quantity": ""
+  },
+  {
+    "brands": "No7",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5045096038921",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Protect & Perfect Night Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "No7",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5045096269608",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "lang": "en",
+    "product_name": "Protect & Perfect Sun Protection Stick 50 SPF"
+  }
+]

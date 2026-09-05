@@ -1,0 +1,460 @@
+[
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [],
+    "code": "5099821002763",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2763/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Hydrating After Sun 12h Moisturisation Skin Nourishing Oil",
+    "quantity": "136ml"
+  },
+  {
+    "brands": "Hawaiian tropic",
+    "code": "0075486138851",
+    "countries_tags": [
+      "en:mexico"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/613/8851/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Hawaiian tropic"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "5099821002237",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2237/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Island Glow"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare"
+    ],
+    "code": "5099821001902",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/1902/front_fr.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Silk HYDRATION",
+    "quantity": "177 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:body",
+      "en:suncare",
+      "en:body-creams",
+      "en:body-balms-and-butters",
+      "fr:apres-solaires"
+    ],
+    "code": "5099821002718",
+    "countries_tags": [
+      "en:france",
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2718/front_fr.9.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "After sun body butter coconut",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "5099821119812",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "ingredients_text": "",
+    "lang": "sv",
+    "product_name": "Island glow solspray SPF 15",
+    "quantity": "177 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "5099821119843",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "ingredients_text": "",
+    "lang": "sv",
+    "product_name": "Island glow solspray SPF 30",
+    "quantity": "177 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:body",
+      "en:suncare",
+      "en:body-creams",
+      "en:body-balms-and-butters",
+      "fr:apres-solaires"
+    ],
+    "code": "5099821002275",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2275/front_sv.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "sv",
+    "product_name": "Island glow body butter",
+    "quantity": "250 mL"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "fr:apres-solaires"
+    ],
+    "code": "5099821002213",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2213/front_sv.4.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Polysorbate 20, Carbomer, Phenoxyethanol, Caprylyl Glycol, Allantoin, Sodium Hydroxide, Panthenol, Parfum, Sorbic Acid, Chamomilla Recutita Flower Extract, Aloe Barbadensis Leaf Juice, Aleurites Moluccanus Seed Extract, Carica Papaya Fruit Extract, Colocasia Antiquorum Root Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Hexyl Cinnamal, Linalool, Benzyl Salicylate, CI 19140, CI 42090.",
+    "lang": "sv",
+    "product_name": "Cool aloe gel after sun",
+    "quantity": "200 mL"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "5099821048976",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/104/8976/front_sv.4.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Octocrylene, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Dibutyl Adipate, VP/Eicosene Copolymer, Cetearyl Alcohol, Phenoxyethanol, Parfum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Sodium Stearoyl Glutamate, Xanthan Gum, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter, Sodium Ascorbyl Phosphate, Disodium EDTA, Hexyl Cinnamal, Linalool, Methyl Salicylate, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract.",
+    "lang": "sv",
+    "product_name": "Luminosity protective sun lotion SPF 15",
+    "quantity": "180 mL"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "5099821049799",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/104/9799/front_sv.4.400.jpg",
+    "ingredients_text": "Aqua, Octocrylene, Glycerin, Ethylhexyl Salicylate, Alcohol Denat, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Tapioca Starch, Polyurethane-34, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, VP/Eicosene Copolymer, Ethylhexyl Triazone, Cetearyl Alcohol, Phenoxyethanol, Glyceryl Stearate, Xanthan Gum, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Parfum, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter, Sodium Ascorbyl Phosphate, Disodium EDTA, Sodium Hydroxide, Hexyl Cinnamal, Linalool, Psidium Guajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract.",
+    "lang": "sv",
+    "product_name": "Luminosity protective sun lotion SPF 50",
+    "quantity": "180 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "5099821048990",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/104/8990/front_sv.4.400.jpg",
+    "ingredients_text": "Aqua, Octocrylene, Glycerin, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Alcohol Denat, Dibutyl Adipate, VP/Eicosene Copolymer, Phenylbenzimidazole Sulfonic Acid, Cetearyl Alcohol, Phenoxyethanol, Glyceryl Stearate, Parfum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tocopheryl Acetate, Sodium Stearoyl Glutamate, Sodium Hydroxide, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter, Sodium Ascorbyl Phosphate, Disodium EDTA, Methyl Salicylate, Hexyl Cinnamal, Linalool, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract.",
+    "lang": "sv",
+    "product_name": "Luminosity protective sun lotion SPF 30",
+    "quantity": "180 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "de:After Sun",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821002039",
+    "countries_tags": [
+      "en:austria"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2039/front_de.17.400.jpg",
+    "ingredients_text": "Aqua, Glycerin, Ethylhexyl, Palmitate, Polysorbate 20, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polymethylsilsesquioxane, Isododecane, Glyceryl Stearate, PEG-100 Stearate, Myristyl Lactate, Benzyl Alcohol, Sodium Hydroxide, Parfum, Cetearyl Alcohol, Xanthan Gum, Cetyl Palmitate, Ethylhexylglycerin, Sodium Polyacrylate, Benzophenone-4, Sorbitan Palmitate, Myristyl Alcohol, Disodium EDTA, Sorbitan Oleate, Glyceryl Acrylate/Acrylic Acid Copolymer, Propylene Glycol, PVM/MA Copolymer, Tocopheryl Acetate, Butyrospermum Parkii Butter, Panthenol, Aloe Barbadensis Leaf Juice, Silk Amino Acids, Sodium Ascorbyl Phosphate, Psidium \u201aGuajava Fruit Extract, Plumeria Acutifolia Flower Extract, Passiflora Incarnata Fruit Extract, Mangifera Indica Fruit Extract, Carica Papaya Fruit Extract, Limonene, Linalool, Hexyl Cinnamal, Coumarin, Alpha-Isomethyl Ionone, CI 42053, CI 47005",
+    "lang": "de",
+    "product_name": "Silk Hydration Aftersun",
+    "quantity": "180 ml"
+  },
+  {
+    "brands": "Hawaiian tropic",
+    "categories_tags": [
+      "en:Corps"
+    ],
+    "code": "5099821001421",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/1421/front_en.3.400.jpg",
+    "ingredients_text": "Aqua, Octocrylene, Benzophenone-3, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Glycerin, VP/Eicosene Copolymer, Diisopropyl Adipate, C12-15 Alkyl Benzoate, Phenethyl Benzoate, Polymethylsilsesquioxane, Phenoxyethanol, Polyethylene, Caprylyl Glycol, Dimethicone, Parfum, Coco-Glucoside, Sodium Polyacrylate, Ceteth-10 Phosphate, Dicetyl Phosphate, Methylparaben, Xanthan Gum, Propylparaben, Carbomer, Disodium EDTA, Paraffin, Sodium Hydroxide, Mica, Butyrospermum Parkii Butter, Mangifera Indica Seed Butter, Silk Amino Acids, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Panthenol, Aloe Barbadensis Leaf Juice, Carica Papaya Fruit Extract, Colocasia Antiquorum Root Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, Hexyl Cinnamal, Linalool",
+    "lang": "en",
+    "product_name": "Silk hydratation",
+    "quantity": ""
+  },
+  {
+    "brands": "Hawaiian tropic",
+    "code": "0075486091897",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/609/1897/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Island sport sunscreen"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "5099821132316",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/113/2316/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Mineral protection 30 SPF Powder"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "0099000001858",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/009/900/000/1858/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Hawaiian Tropic Glowing Protection Lotion SPF 50"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821009977",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/9977/front_es.8.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "Dry spray oil 8",
+    "quantity": ""
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "5099821002282",
+    "countries_tags": [
+      "en:greece"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/2282/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Hawaiian Tropic Glowing Perfection 30 SPF Dry Oil Spray"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821001858",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/1858/front_es.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "Glowing Protection",
+    "quantity": ""
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821137151",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/113/7151/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Hydrating Protection",
+    "quantity": ""
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821001414",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/1414/front_en.28.400.jpg",
+    "ingredients_text": "Aqua, Octocrylene, Benzophenone-3, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Glycerin, VP/Eicosene Copolymer, Disopropyl Adipate, C12-15 Alkyl Benzoate, Phenethyl Benzoate, Polymethylsilsesquioxane, Phenoxyethanol, Polyethylene, Caprylyl Glycol, Dimethicone, Parfum, Coco-Glucoside, Sodium Polyacrylate, Ceteth-10 Phosphate, Dicetyl Phosphate, Methylparaben, Xanthan Gum, Propy(paraben, Carbomer, Disodium EDTA, Paraffin, Silk Amino Acids, Sodium Hydroxide, Mica, Butyrospermum Parki Butter, Mangifera Indica Seed Butter, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Panthenol, Aloe Barbadensis Leaf Juice, Carica Papaya Fruit Extract, Colocasia Antiquorum Root Extract, Mangifera Indica Fruit Extract, Passifiora Incamata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, Hexy! Cinnamal, Linalool, CI 77163, CI 77492, CI 77491. 180 mL UVA *** Made in U.S.A. GOOD Distributed by: Wilkinson Sword Gmiti Sch\u00fctzenstr. 110 0-42659 Solingen,",
+    "lang": "fr",
+    "product_name": "Hawaiian Tropic Silk Hydratation",
+    "quantity": "180 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "de:Sonnencreme",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "5099821001834",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/509/982/100/1834/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Satin Protection",
+    "quantity": "180 ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "es:Loci\u00f3n protectora solar"
+    ],
+    "code": "0075486090289",
+    "countries_tags": [
+      "en:argentina"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/609/0289/front_es.4.400.jpg",
+    "ingredients_text": "Aqua, Homosalate, Octocrylene, Ethylhexyl Salicylate, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Glycerin, Phenoxyethanol, Benzyl Alcohol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Parfum, C12-15 Alkyl Benzoate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ceteth-10 Phosphate, Dicetyl Phosphate, Coco-Glucoside, Chlorphenesin, Xanthan Gum, Dimethicone, Sodium Hydroxide, Disodium EDTA, Mangifera Indica Seed Butter, Tocopheryl Acetate, Carica Papaya Fruit Extract, Mangifera Indica Fruit Extract, Passiflora Incarnata Fruit Extract, Plumeria Acutifolia Flower Extract, Psidium Guajava Fruit Extract, Panthenol, Aloe Barbadensis Leaf Juice, Sodium Ascorbyl Phosphate, Hexyl Cinnamal, Linalool.",
+    "lang": "es",
+    "product_name": "Hawaiian Tropic Island Sport",
+    "quantity": "240ml"
+  },
+  {
+    "brands": "hawaiian tropic",
+    "code": "0075486030568",
+    "countries_tags": [
+      "en:peru"
+    ],
+    "lang": "en",
+    "product_name": "aceite bronceador con filtro solar"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "0075486091484",
+    "countries_tags": [
+      "en:mexico"
+    ],
+    "lang": "en",
+    "product_name": "Hydration After Sun Lotion",
+    "quantity": "6 FL.OZ."
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0075486088606",
+    "countries_tags": [
+      "en:mexico"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/608/8606/front_es.4.400.jpg",
+    "ingredients_text": "aqua, octocrylene, benzophenone-3, butyl methoxydibenzoylmethane, c12-15 alkyl benzoate, phenethyl benzoate, vpieicosene copolymer, cetearyl alcohol, disopropyl adipate, phenoryethanol, polymethylsilsesquioxane, caprylyl glycol, dimethicone, glycerin, parfum, polyethylene, triethanolamine, coco-glucoside, acrylates/c10-30 alkyl acrylate crosspolymer, methylparaben, psidium guajava fruit extract, hexyl cinnamal, linalool. edta, paraffin, xanthan gum, butyrospermum parkii butter, mangifera ceteth-10 phosphate, dicetyl phosphate, propylparaben, disodium indica seed butter, sodium ascorbyl phosphate, tocopheryl acetate, panthenol, aloe barbadensis leaf juice, carica papaya fruit extract, passifora incarnata fruit extract, plumeria acutifolia flower extract, colocasia antiquorum root extract, mangifera indica fruit extract, ropa. contiene benzophenone-3. euta, paraffin, xanthan gum. butvrospermum parki butter, mangitera dica seed butter, sodium ascorbyl phosphate. tocopheryl acetate. radium guajava fruit extract hexyi cinamal, linalool.",
+    "lang": "en",
+    "product_name": "Hawaiian Tropic Baby",
+    "quantity": "240ml"
+  },
+  {
+    "brands": "Hawaiian Tropic",
+    "code": "93035184",
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/009/303/5184/front_en.10.400.jpg",
+    "lang": "en",
+    "product_name": "Sunscreen Lotion",
+    "quantity": "High"
+  },
+  {
+    "brands": "Edgewell, Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "0075486085018",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/608/5018/front_en.3.400.jpg",
+    "ingredients_text": "Octisalate 4.5%, homosalate 3%, octocrylene 4%, avobenzone 1.5%, aqua, cetearyl alcohol, phenoxyethanol, VP/eicosene copolymer, mica, diisopropyl adipate, C12-15 alkyl benzoate, glycerin, parfum, neopentyl glycol diheptanoate, acrylates/C10-30 alkyl acrylate crosspolymer, methylparaben, coco-glucoside, dimethicone, polymethylsilsesquioxane, propylparaben, sodium hydroxide, ceteth-10 phosphate, dicetyl phosphate, propylene glycol dibenzoate, disodium EDTA, paraffin, xanthan gum, butyrospermum parkii (shea) butter, jojoba alcohol, potassium jojobate, simmondsia chinensis (jojoba) butter, mangifera indica (mango) seed butter, propanediol, tocopheryl acetate, carica papaya (papaya) fruit extract, colocasia antiquorum root extract, mangifera indica (mango) fruit extract, passiflora incarnata fruit extract, plumeria acutifolia flower extract, psidium guajava fruit extract, panthenol, aloe barbadensis leaf juice, sodium ascorbyl phosphate, titanium dioxide",
+    "lang": "en",
+    "product_name": "Sheer Touch Oil-free Sunscreen Lotion SPF 15",
+    "quantity": "240 mL"
+  },
+  {
+    "brands": "Edgewell, Hawaiian Tropic",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "0075486085025",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/608/5025/front_en.3.400.jpg",
+    "ingredients_text": "Homosalate 5.5%, Octisalate 4.5%,, octocrylene 4%, avobenzone 2%, aqua, C12-15 alkyl benzoate, cetearyl alcohol, phenoxyethanol, VP/eicosene copolymer, isopropyl adipose, neopentyl glycol diheptanoate, mica, dimethicone, glycerin, parfum, polymethylsilsesquioxane, acrylates/C10-30 alkyl acrylate crosspolymer, coco-glucoside, methylparaben, propylene glycol dibenzoate, ceteth-10 phosphate, dicetyl phosphate, propylparaben, sodium hydroxide, disodium EDTA, paraffin, xanthan gum, butyrospermum parkii (shea) butter, jojoba alcohol, potassium jojoba, simmondsia chinensis (jojoba) butter, mangifera indica (mango) seed butter, propanediol, tocopheryl acetate, carica papaya (papaya) fruit extract, colocasia antiquorum root extract, mangifera indica (mango) fruit extract, passiflora incarnate fruit extract, plumeria acutifolia flower extract, psidium guajava fruit extract, panthenol, aloe barbadensis leaf juice, sodium ascorbyl phosphate, titanium dioxide",
+    "lang": "en",
+    "product_name": "Sheer Touch Oil-free Sunscreen Lotion 30 SPF",
+    "quantity": "240 mL"
+  },
+  {
+    "brands": "Hawaiian tropic",
+    "code": "0075486091170",
+    "countries_tags": [
+      "en:ecuador"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/609/1170/front_de.8.400.jpg",
+    "lang": "de",
+    "product_name": "Island Sport",
+    "quantity": "360 ml"
+  },
+  {
+    "brands": "Hawaiian tropic",
+    "code": "0075486089870",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/007/548/608/9870/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Broad spectrum SPF 30",
+    "quantity": ""
+  }
+]

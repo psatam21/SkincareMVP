@@ -1,0 +1,131 @@
+[
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "8904352003974",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/3974/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Sun Shield Sandalwood",
+    "quantity": "190ml"
+  },
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:suncare",
+      "en:in-sun-protections",
+      "en:sunscreen"
+    ],
+    "code": "8904352003905",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/3905/front_en.3.400.jpg",
+    "ingredients_text": "Carrot\nNyctanthes Leaf Extracts\nCarrot Root Extracts\nLodhra Bark \nSprouted Wheat\nZinc Oxide, naturally derived",
+    "lang": "en",
+    "product_name": "Sun Shield Carrot Sunscreen",
+    "quantity": "120 ml x1"
+  },
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:body",
+      "en:body-gels"
+    ],
+    "code": "8904352004100",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/4100/front_en.5.400.jpg",
+    "lang": "en",
+    "product_name": "Biotique Bio Honey Gel Soothe & Nourish Foaming Face Cleanser",
+    "quantity": "120 ml"
+  },
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:body",
+      "en:body-gels"
+    ],
+    "code": "8904352004681",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/4681/front_en.7.400.jpg",
+    "lang": "en",
+    "product_name": "Morning Nectar Nourish & Hydrate Body Wash",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:body",
+      "en:body-gels"
+    ],
+    "code": "8904352004650",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/4650/front_en.8.400.jpg",
+    "lang": "en",
+    "product_name": "Biotique Bio Apricot Refreshing Body Wash",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Biotique",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8904352004469",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/435/200/4469/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Biotique Soya Protein Shampoo & Conditioner",
+    "quantity": "650ml"
+  },
+  {
+    "brands": "biotique",
+    "categories_tags": [
+      "en:face"
+    ],
+    "code": "8906009459998",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/600/945/9998/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Biotique bio honey gel",
+    "quantity": "5.07 fl oz"
+  },
+  {
+    "brands": "Biotique",
+    "code": "8906009450070",
+    "lang": "en",
+    "product_name": "Moisturiser",
+    "quantity": "120ml"
+  },
+  {
+    "brands": "Biotique",
+    "code": "8906009451428",
+    "countries_tags": [
+      "en:mauritius"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/600/945/1428/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Bio Henna Leaf",
+    "quantity": "190 ml"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [],
+    "code": "8901030978753",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/097/8753/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme 9To5 Sun Expert Sunscreen Lotion",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [],
+    "code": "8901030978609",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/097/8609/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme 9To5 Sun Expert Sunscreen Lotion",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [],
+    "code": "8901030978029",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/097/8029/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme complexion care cream",
+    "quantity": ""
+  },
+  {
+    "brands": "Lakm\u00e9, hul",
+    "categories_tags": [],
+    "code": "8909106025011",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/910/602/5011/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme perfect radiance face wash",
+    "quantity": ""
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901030864568",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/086/4568/front_en.14.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme lemon fresh",
+    "quantity": ""
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:Cosmetic products",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901030865275",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/086/5275/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lakme Peach Milk Ultra Light-Weight Gel",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "code": "8901030764806",
+    "countries_tags": [],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/076/4806/front_xx.12.400.jpg",
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "sun expert",
+    "quantity": "1"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "code": "07102442",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/000/710/2442/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "lakme peach milk soft creme",
+    "quantity": "65g"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [
+      "en:makeup",
+      "en:nail-products",
+      "en:nail-makeup",
+      "en:nail-polishes"
+    ],
+    "code": "8901030626173",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/062/6173/front_en.7.400.jpg",
+    "ingredients_text": "Acetone\nethyl acetate\naqua",
+    "lang": "en",
+    "product_name": "lakme",
+    "quantity": "1"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "categories_tags": [
+      "en:Moisturizer"
+    ],
+    "code": "8901030712050",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/071/2050/front_en.6.400.jpg",
+    "lang": "en",
+    "product_name": "peach milk",
+    "quantity": "1"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "code": "8901030640575",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/064/0575/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Argan oil serum foundation spf45",
+    "quantity": "15ml"
+  },
+  {
+    "brands": "Lakm\u00e9",
+    "code": "8901030648465",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/103/064/8465/front_en.5.400.jpg",
+    "lang": "en",
+    "product_name": "Moisturiser"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "brands": "Drunk Elephant",
+    "categories_tags": [
+      "en:body",
+      "en:hand-creams"
+    ],
+    "code": "0194249405235",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/019/424/940/5235/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Therapy buttered reparative hand cream"
+  },
+  {
+    "brands": "Drunk Elephant",
+    "categories_tags": [],
+    "code": "2000000151852",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/200/000/015/1852/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Lala Retro Whipped Cream",
+    "quantity": ""
+  },
+  {
+    "brands": "Drunk Elephant",
+    "categories_tags": [],
+    "code": "0856556004111",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/085/655/600/4111/front_en.3.400.jpg",
+    "ingredients_text": "Water/Aqua/Eau, Dimethyl Isosorbide, Ascorbic Acid, Laureth-23, Glycerin, Lactobacillus/Pumpkin Ferment Extract, Sclerocarya Birrea Seed Oil, Dipotassium Glycyrrhizate, Glycyrrhiza Glabra (Licorice) Root Extract, Vitis Vinifera (Grape) Juice Extract, Phyllanthus Emblica Fruit Extract, Camellia Sinensis Leaf Extract, Tocopherol, Lactobacillus/Punica Granatum Fruit Ferment Extract, Sodium Hyaluronate Crosspolymer, Hydrolyzed Quinoa, Phytosterols, Glutamylamidoethyl Imidazole, Hydrolyzed Wheat Protein, Ferulic Acid, Acetyl Glucosamine, Sodium Hyaluronate, Tetrahydrobisdemethoxydiferuloylmethane, Tetrahydrodemethoxydiferuloylmethane, Tetrahydrodiferuloylmethane, Glycine, Leuconostoc/Radish Root Ferment Filtrate, Sucrose, Maltodextrin, Chondrus Crispus Extract, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Phenoxyethanol, Caprylhydroxamic Acid, Caprylyl Glycol, Sorbitan Isostearate, Propanediol, Pentylene Glycol, Xanthan Gum, Butylene Glycol, Sodium Hydroxide, Chlorphenesin, Polysorbate 60, Sodium Dehydroacetate, Potassium Sorbate, Sorbic Acid, Ethylhexylglycerin",
+    "lang": "en",
+    "product_name": "C-Firma\u2122 Vitamin C Day Serum",
+    "quantity": ""
+  }
+]

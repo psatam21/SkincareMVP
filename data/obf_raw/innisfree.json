@@ -1,0 +1,50 @@
+[
+  {
+    "brands": "Innisfree",
+    "categories_tags": [
+      "pt:Cuidados com a pele",
+      "pt:Toners"
+    ],
+    "code": "8809843673431",
+    "countries_tags": [
+      "en:brazil"
+    ],
+    "ingredients_text": "Water, Propanediol, Butylene Glycol, Glycerin, Camellia Sinensis Leaf Water, 1,2-Hexanediol, Betaine, PEG-60 Hydrogenated Castor Oil, Ethylhexylglycerin, Disodium EDTA, Sodium Hyaluronate, Citric Acid, Sodium Citrate, Fragrance",
+    "lang": "pt",
+    "product_name": "Innisfree Green Tea Balancing Skin Toner",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "Innisfree",
+    "code": "8809612858977",
+    "countries_tags": [
+      "en:australia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/961/285/8977/front_en.8.400.jpg",
+    "lang": "en",
+    "product_name": "Forest for Men Fresh Lotion",
+    "quantity": "140 mL"
+  },
+  {
+    "brands": "Innisfree",
+    "code": "8809612858816",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/961/285/8816/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Perfect 9 repair lotion ex",
+    "quantity": "160 ml"
+  },
+  {
+    "brands": "Innisfree",
+    "code": "8806173507207",
+    "countries_tags": [
+      "en:singapore"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/617/350/7207/front_fr.4.400.jpg",
+    "lang": "fr",
+    "product_name": "Jeju lotus hand cream",
+    "quantity": "30ml"
+  }
+]

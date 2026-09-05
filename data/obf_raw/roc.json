@@ -1,0 +1,76 @@
+[
+  {
+    "brands": "Roc",
+    "code": "1220000230071",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/122/000/023/0071/front_fr.3.400.jpg",
+    "lang": "en",
+    "product_name": "Keops"
+  },
+  {
+    "brands": "roc",
+    "code": "08185037",
+    "countries_tags": [
+      "en:france"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/000/818/5037/front_fr.4.400.jpg",
+    "lang": "fr",
+    "product_name": "keops soin anti transpirant transpiration excessive",
+    "quantity": "50 ml"
+  },
+  {
+    "brands": "RoC",
+    "categories_tags": [
+      "pt:Anti-envelhecimento",
+      "pt:Cuidados com olhos"
+    ],
+    "code": "5054596164825",
+    "countries_tags": [
+      "en:brazil"
+    ],
+    "ingredients_text": "Water, Glycerin, Dimethicone, Cyclopentasiloxane, Stearyl Alcohol, Cetearyl Alcohol, Cetearyl Glucoside, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Ethylhexylglycerin, Sodium Hyaluronate, Retinyl Linoleate, Retinyl Palmitate, Retinol, Tocopheryl Acetate, Disodium EDTA, Sodium Hydroxide, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Sodium Benzoate, Potassium Sorbate, Tetrasodium EDTA, Tocopherol, Ascorbyl Palmitate, Citric Acid, Biotin, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Carnosine, Sodium Chondroitin Sulfate, Sodium Hyaluronate Crosspolymer, Acetyl Hexapeptide-8, Hexapeptide-4, Hexapeptide-11, Pentapeptide-18, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Copper Lysinate/Prolinate, Zinc PCA, Polysorbate 20, Sorbitan Isostearate",
+    "lang": "pt",
+    "product_name": "RoC Derm Correxion Dual Eye Cream with Advanced Retinol",
+    "quantity": "14g"
+  },
+  {
+    "brands": "RoC",
+    "categories_tags": [
+      "pt:Cuidados com a pele",
+      "pt:Cuidados com os olhos"
+    ],
+    "code": "0154132826011",
+    "countries_tags": [
+      "en:brazil"
+    ],
+    "ingredients_text": "Aqua, Glycerin, Dimethicone, Butyrospermum Parkii Butter, Cetearyl Alcohol, Stearyl Heptanoate, Stearyl Caprylate, Stearic Acid, Palmitic Acid, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Dimethiconol, Sodium Hyaluronate, Tocopheryl Acetate, Retinyl Linoleate, Retinyl Palmitate, Retinol, Disodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Hydroxyethylcellulose, Xanthan Gum, Sodium Hydroxide, Tetrasodium EDTA, Tocopherol, Ascorbyl Palmitate, Citric Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Biotin, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Carnosine, Sodium Chondroitin Sulfate, Sodium Hyaluronate Crosspolymer, Acetyl Hexapeptide-8, Hexapeptide-4, Hexapeptide-11, Pentapeptide-18, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Copper Lysinate/Prolinate, Zinc PCA, Polysorbate 20, Sorbitan Isostearate, Sodium Benzoate, Potassium Sorbate, BHT, CI 77891, CI 77491, CI 77492, CI 77499.",
+    "lang": "pt",
+    "product_name": "RoC Multi Correxion 5 in 1 Anti-Aging Eye Cream",
+    "quantity": "15 ml"
+  },
+  {
+    "brands": "ROC",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts",
+      "fr:Baume"
+    ],
+    "code": "3574660032314",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/357/466/003/2314/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Enydrial, baume labial hydratant",
+    "quantity": "3g"
+  }
+]

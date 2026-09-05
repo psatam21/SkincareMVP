@@ -1,0 +1,90 @@
+[
+  {
+    "brands": "LANEIGE",
+    "categories_tags": [
+      "en:makeup",
+      "nl:Beauty",
+      "nl:Lipgloss",
+      "nl:Lipmake-up"
+    ],
+    "code": "0800897233938",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/080/089/723/3938/front_en.3.400.jpg",
+    "ingredients_text": "Berry Fruit Complex, + Vitamin C, + Coconut Oil, Complexe de Bales Rouges, + Vitamine C, + Huile de Noix de Coco",
+    "lang": "nl",
+    "product_name": "NYX Professional Makeup 03 My Supermodel Fat Oil Lip Drip Lipolie",
+    "quantity": "4,8ml"
+  },
+  {
+    "brands": "LANEIGE",
+    "categories_tags": [
+      "en:makeup",
+      "en:lip-makeup"
+    ],
+    "code": "0803319416858",
+    "countries_tags": [
+      "en:norway"
+    ],
+    "lang": "en",
+    "product_name": "Lip Sleeping Mask Berry Lip Treatment"
+  },
+  {
+    "brands": "laneige",
+    "categories_tags": [
+      "en:face",
+      "en:incorrect-product-type",
+      "en:lip-balms",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8809608309377",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "en",
+    "product_name": "laneige lip glowy balm",
+    "quantity": "10g"
+  },
+  {
+    "brands": "LANEIGE",
+    "code": "8809585111628",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/958/511/1628/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Masque de nuit pour les l\u00e8vres",
+    "quantity": "20g"
+  },
+  {
+    "brands": "Laneige",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams",
+      "en:moisturizing-creams"
+    ],
+    "code": "8809925136649",
+    "countries_tags": [
+      "en:japan"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/992/513/6649/front_fr.11.400.jpg",
+    "ingredients_text": "WATER / AQUA / EAU, BUTYLENE GLYCOL, CETEARYL ALCOHOL, GLYCERIN, HYDROGENATED POLY(C6-14 OLEFIN), DIETHYLHEXYL SUCCINATE, 1,2-HEXANEDIOL, GLYCERYL STEARATE SE, PHYTOSTERYL/BEHENYL/OCTYLDODECYL LAUROYL GLUTAMATE, TRIOLEIN, GLYCERYL STEARATE, SQUALANE, METHYL TRIMETHICONE, ISONONYL ISONONANOATE, MYRISTYL MYRISTATE, C10-18 TRIGLYCERIDES, LACTOBACILLUS FERMENT LYSATE, CETEARYL GLUCOSIDE, CARBOMER, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, SODIUM STEAROYL GLUTAMATE, TROMETHAMINE, NIACINAMIDE, SODIUM METAPHOSPHATE, GLYCERYL CAPRYLATE, PROPANEDIOL, ETHYLHEXYLGLYCERIN, CERAMIDE NP, FRAGRANCE / PARFUM, CAPRYLYL GLYCOL, HYDROLYZED HYALURONIC ACID, SORBITAN ISOSTEARATE, SODIUM HYALURONATE, DEXTRIN, ASIATICOSIDE, CARTHAMUS TINCTORIUS (SAFFLOWER) FLOWER EXTRACT, MADECASSIC ACID, ASIATIC ACID, THEOBROMA CACAO (COCOA) EXTRACT, TOCOPHEROL, SODIUM HYALURONATE CROSSPOLYMER, HYALURONIC ACID, VEGETABLE OIL / OLUS OIL / HUILE V\u00c9G\u00c9TALE, ADENIUM OBESUM LEAF CELL EXTRACT, SODIUM ACETYLATED HYALURONATE, ACETYL TETRAPEPTIDE-2, UNDARIA PINNATIFIDA EXTRACT",
+    "lang": "fr",
+    "product_name": "Water Bank Hyaluronique Bleu",
+    "quantity": "20 mL"
+  },
+  {
+    "brands": "Laneige",
+    "code": "8809643053273",
+    "countries_tags": [
+      "en:singapore"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/880/964/305/3273/front_en.4.400.jpg",
+    "ingredients_text": "Laneige product cream base and Lip sleeping mask mixed flavors.",
+    "lang": "en",
+    "product_name": "Laneige Lip sleeping mask",
+    "quantity": "20grams"
+  }
+]

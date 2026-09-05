@@ -1,0 +1,104 @@
+[
+  {
+    "brands": "Est\u00e9e Lauder",
+    "categories_tags": [
+      "en:makeup",
+      "en:eyes",
+      "en:eyes-makeup",
+      "en:mascara",
+      "nl:Beauty"
+    ],
+    "code": "0887167582873",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "nl",
+    "product_name": "E.Lauder Turbo Lash High-Powered Volume & Lenght Mascara 8 ml",
+    "quantity": "#01 Black, 8"
+  },
+  {
+    "brands": "estee lauder",
+    "categories_tags": [
+      "nl:Beauty",
+      "nl:Nachtcreme",
+      "nl:Skincare"
+    ],
+    "code": "0887167485488",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.400.jpg",
+    "lang": "nl",
+    "product_name": "E.Lauder Advanced Night Repair 50ml",
+    "quantity": "Synchronized Multi-Recovery Complex, 50"
+  },
+  {
+    "brands": "Est\u00e9e Lauder",
+    "categories_tags": [],
+    "code": "0027131963332",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Double Wear Concealer 2C",
+    "quantity": "7 ml"
+  },
+  {
+    "brands": "Estee Lauder",
+    "categories_tags": [],
+    "code": "0887167466821",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Est\u00e9e Lauder Futurist Hydra Rescue Moisturizing Makeup SPF45",
+    "quantity": "1.2"
+  },
+  {
+    "brands": "Est\u00e9e Lauder",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "0887167616844",
+    "countries_tags": [
+      "en:spain"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.400.jpg",
+    "ingredients_text": "",
+    "lang": "es",
+    "product_name": "Double Wear 24h Stay-in-Place Lip Liner",
+    "quantity": ""
+  },
+  {
+    "brands": "Est\u00e9e Lauder",
+    "code": "0887167222243",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.400.jpg",
+    "ingredients_text": "Ethylhexyl Palmitate, Carthamus Tinctorius (Safflower) Seed Oil, Caprylic/Capric Triglyceride, Sorbeth-30 Tetraoleate, Polyethylene, PEG-5 Glyceryl Triisostearate, Water\\Aqua\\Eau, Silybum Marianum (Lady's Thistle) Extract, Polygonum Cuspidatum Root Extract, Algae Extract, Anthemis Nobilis (Chamomile), Lavandula Angustifolia (Lavender), Methyldihydrojasmonate, Tocopherol, BHT, Linalool, Phenoxyethanol.",
+    "lang": "en",
+    "product_name": "Advanced Night Micro Cleansing Balm"
+  },
+  {
+    "brands": "Est\u00e9e Lauder",
+    "code": "0887167223769",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.400.jpg",
+    "ingredients_text": "Water\\Aqua\\Eau, Sodium Cocoyl Isethionate, Butylene Glycol, Lauramidopropyl Betaine, Glycol Distearate, Glycerin, Sucrose, Citrullus Vulgaris (Watermelon) Fruit Extract, Lens Esculenta (Lentil) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Silybum Marianum (Lady's Thistle) Extract, Anthemis Nobilis (Chamomile) Flower Extract, Cocos Nucifera (Coconut) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Lavandula Angustifolia (Lavender) Oil, Polygonum Cuspidatum Root Extract, Caffeine, Cholesterol, Ceteth-20, Sodium PCA, Algae Extract, Polyquaternium-10, Sodium Lactate, PEG-6 Caprylic/Capric Glycerides, Sodium Chloride, Lauric Acid, PEG-150 Pentaerythrityl Tetrastearate, Methyldihydrojasmonate, Tocopheryl Acetate, Ethylhexylglycerin, Sodium Hydroxide, Potassium Sorbate, Disodium EDTA, BHT, Phenoxyethanol, Linalool, Titanium Dioxide (CI 77891).",
+    "lang": "en",
+    "product_name": "Advanced Night Micro Cleansing Foam"
+  }
+]

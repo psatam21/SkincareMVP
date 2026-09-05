@@ -1,0 +1,650 @@
+[
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "nl:Conditioner",
+      "nl:Haarverzorging",
+      "nl:Verzorging"
+    ],
+    "code": "3600524149857",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/414/9857/front_en.3.400.jpg",
+    "lang": "nl",
+    "product_name": "conditioner",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [],
+    "code": "3474636892013",
+    "countries_tags": [
+      "en:united-arab-emirates"
+    ],
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "loreal  professional  paris",
+    "quantity": ""
+  },
+  {
+    "brands": "La Roche-Posay, loreal",
+    "categories_tags": [
+      "en:body",
+      "en:body-creams",
+      "en:body-balms-and-butters"
+    ],
+    "code": "3337875696548",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:italy",
+      "en:morocco"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/333/787/569/6548/front_fr.27.400.jpg",
+    "ingredients_text": "AQUA, BUTYROSPERMUM PARKII BUTTER, GLYCERIN, DIMETHICONE, NIACINAMIDE, CETEARYL ALCOHOL, BRASSICA CAMPESTRIS SEED OIL, GLYCERYL STEARATE, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, PEG-100 STEARATE, PROPANEDIOL, OPHIOPOGON JAPONICUS ROOT EXTRACT, PEG-20 METHYL GLUCOSE SESQUISTEARATE, SORBITAN TRISTEARATE, DIMETHICONOL, SODIUM CHLORIDE, MANNOSE, COCO-BETAINE, DISODIUM EDTA, CAPRYLOYL GLYCINE, CAPRYLYL GLYCOL, VITREOSCILLA FERMENT, CITRIC ACID, MALTODEXTRIN, XANTHAN GUM, TOCOPHEROL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+    "lang": "fr",
+    "product_name": "Lipikar Baume AP+ M",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "Loreal, Loreal paris",
+    "categories_tags": [
+      "en:Facial Mask 3 pure clays & seaweed"
+    ],
+    "code": "0007124935553",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/000/712/493/5553/front_en.9.400.jpg",
+    "ingredients_text": "917087 13 Aqua/Water, Kaolin, Glycerin, Coco-Betaine, Propanediol, Sodium Lauroyl Sarcosinate, Potassium Laurate, Acrylates Copolymer, Hydroxypropyl Starch Phosphate, Sodium Chloride, Phenoxyethanol, Parfum/Fra - Grance, Tetrasodium Edta, Ci 77499/Iron Oxides, Moroccan Lava Clay, Montmorillonite, Ethylhexylglycerin, Charcoal Powder, Limonene, Linalool, Sodium Benzoate, Polyglyc - Erin-10, Polyglyceryl-10 Myristate, Polyglycer - Yl-10 Stearate, Citric Acid, Sodium Dehydroacetate, Tocopherol. F.I.L. # D203898/1",
+    "lang": "en",
+    "product_name": "Loreal Pure-Claly Mask Clear & Comfort",
+    "quantity": "1.7 fl oz"
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "en:makeup",
+      "en:eyes",
+      "en:eyes-makeup",
+      "en:eyeliners",
+      "nl:Beauty"
+    ],
+    "code": "3600524026660",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/402/6660/front_nl.6.400.jpg",
+    "lang": "nl",
+    "product_name": "L'Or\u00e9al Paris Infaillible 36H Grip Gel Automatic Brown Denim Eyeliner",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:makeup",
+      "en:face-makeup",
+      "en:foundations",
+      "nl:Beauty"
+    ],
+    "code": "3600523951444",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/395/1444/front_en.3.400.jpg",
+    "lang": "nl",
+    "product_name": "L'Or\u00e9al Paris Infaillible 24H Fresh Wear 120 Vanille Foundation in a Powder",
+    "quantity": "9g"
+  },
+  {
+    "brands": "Lor\u00e9al",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "3600523586356",
+    "countries_tags": [
+      "en:france",
+      "en:kazakhstan",
+      "en:russia"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/358/6356/front_ru.10.400.jpg",
+    "ingredients_text": "",
+    "lang": "ru",
+    "quantity": "400 ml"
+  },
+  {
+    "brands": "loreal",
+    "code": "3600524057336",
+    "countries_tags": [
+      "en:colombia"
+    ],
+    "lang": "en",
+    "product_name": "Revitalift",
+    "quantity": "300 ml"
+  },
+  {
+    "brands": "L'Or\u00e9al Paris, Loreal",
+    "categories_tags": [
+      "en:hair",
+      "en:hair-care",
+      "en:Hair oil"
+    ],
+    "code": "0604454914892",
+    "countries_tags": [
+      "en:sweden"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/060/445/491/4892/front_sv.3.400.jpg",
+    "ingredients_text": "ISODODECANE DIMETHICONE DIMETHICONOL COCOS NUCIFERA OIL/COCONUT OIL TOCOPHEROL . ETHYLHEXYL SALICYLATE ANISE ALCOHOL SCLEROCARYA BIRREA SEED OIL CAMELLIA JAPONICA SEED OIL - LIMONENE. LINALOOL CAPRYLIC/CAPRIC GLYCERIDES \u2022 GARDENIA TAITENSIS FLOWER \u2022 ROSA CANINA FLOWER EXTRACT O COUMARIN HEXYL CINNAMAL PARFUM/ FRAGRANCE. (F.I.L. Z70015614/1).",
+    "lang": "en",
+    "product_name": "Elvital Extraordinary oil Sublime Hair Serum",
+    "quantity": "100ml"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "8901526102334",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/152/610/2334/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Anti-Hairfall Shampoo",
+    "quantity": ""
+  },
+  {
+    "brands": "LOREAL",
+    "code": "7509552817348",
+    "countries_tags": [
+      "en:mexico"
+    ],
+    "lang": "en",
+    "product_name": "ELVIVE"
+  },
+  {
+    "brands": "lor\u00e9al",
+    "categories_tags": [],
+    "code": "3499320003315",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/349/932/000/3315/front_ar.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "ar",
+    "product_name": "elseve",
+    "quantity": ""
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "lt:Loreal"
+    ],
+    "code": "3600522768586",
+    "countries_tags": [
+      "en:lithuania"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/276/8586/front_lt.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "lt",
+    "product_name": "loreal",
+    "quantity": "400ml"
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3600523966042",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/396/6042/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Color Shampoo"
+  },
+  {
+    "brands": "Loreal",
+    "code": "7509552917406",
+    "countries_tags": [
+      "en:peru"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/750/955/291/7406/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "Magic retouch"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600522108023",
+    "countries_tags": [
+      "en:portugal"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/210/8023/front_pt.3.400.jpg",
+    "ingredients_text": "50mle Depositar no ecoponto amarelo 12M L'OREAL PARIS Ontal Portugal, LDM CHID HCSPORTS 882463 01-INGREDIENTS: AQUA/WATER ALUMINUM CHLOROHYDRATE DIMETHICONE C14-22 ALCOHOLS STEARETH-100/PEG-136/HDI COPOLYMER PARFUM/FRAGRANCE PERUTE CHARCOAL POWDER POLYGLYCERIN-10 POLYGLYCERYL-10 MYRISTATE POLYGLYCERYL-10 STEARATE TETRASODIUM GLUTAMATE DIACETATE C12-20 ALKYL GLUCOSIDE CITRIC ACID PEG-4 PEG-4DILAURATE PEG-4 LAURATE CITRONELIOL COUMARIN \u2022 LIMONENE LINALOOL IODOPROPYNYL BUTYLCARBAMATE SODIUM DEHYDROACETATE (FLL C265786/7). Sem \u00e1lcool etilico. AGITAR ANTES DE USAR 600522 108023&quot;&gt; 369004 Tecnologia de frescura melhorada: fragr\u00e2ncia fresca otimizade.",
+    "lang": "pt",
+    "product_name": "Carbon protect",
+    "quantity": "50ml"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8994993012503",
+    "countries_tags": [
+      "en:montserrat"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/899/499/301/2503/front_en.3.400.jpg",
+    "lang": "en",
+    "product_name": "L'Oreal shampoo",
+    "quantity": "650ml"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:hair",
+      "en:shampoos"
+    ],
+    "code": "8901526603473",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/152/660/3473/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Loreal Hyaluron Moisture Shampoo",
+    "quantity": ""
+  },
+  {
+    "brands": "LOREAL",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3600523898954",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "de",
+    "product_name": "Hairspray",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3600524015060",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "de",
+    "product_name": "Haarfarbe",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:incorrect-product-type",
+      "en:non-beauty-products",
+      "en:open-products-facts",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "8901526599141",
+    "countries_tags": [
+      "en:india"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/152/659/9141/front_en.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Absolut Repair",
+    "quantity": ""
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600523450510",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/345/0510/front_en.5.400.jpg",
+    "lang": "en",
+    "product_name": "Rare Flowers purifying gel",
+    "quantity": "150ml"
+  },
+  {
+    "brands": "loreal",
+    "code": "3600522471769",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "de",
+    "product_name": "haarwachs",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "en:alcoholic-beverages",
+      "en:beverages",
+      "en:ciders",
+      "en:traditional-ciders"
+    ],
+    "code": "3600522506805",
+    "countries_tags": [
+      "en:albania"
+    ],
+    "ecoscore_tags": [
+      "d"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/250/6805/front_aa.4.400.jpg",
+    "ingredients_text": "oreal inett oreme dcmousse dnextra starker ht water, isobutane, vpva copolymer, butane, propylene glycol, propane, lactic acid,",
+    "lang": "en",
+    "product_name": "elnett",
+    "quantity": "200 ml"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [],
+    "code": "3600523630080",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Elvital Pflegesp\u00fclung",
+    "quantity": "1pcs"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600523971053",
+    "countries_tags": [
+      "en:united-states"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "en",
+    "product_name": "Handsanitizer"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600524029869",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "lang": "en",
+    "product_name": "Shampoo"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600522422075",
+    "countries_tags": [
+      "en:italy"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "Revitalift giorno",
+    "quantity": ""
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3600523704378",
+    "countries_tags": [
+      "en:united-kingdom"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/370/4378/front_en.5.400.jpg",
+    "ingredients_text": "",
+    "lang": "en",
+    "product_name": "hydra energy tissue mask",
+    "quantity": ""
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [],
+    "code": "3600523074228",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/307/4228/front_de.4.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Primer Infaillible",
+    "quantity": "35ml"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600523715558",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/371/5558/front_de.3.400.jpg",
+    "lang": "de",
+    "product_name": "Men Deo"
+  },
+  {
+    "brands": "loreal",
+    "code": "3600524098667",
+    "countries_tags": [
+      "en:france"
+    ],
+    "lang": "fr",
+    "product_name": "elseve total repaire"
+  },
+  {
+    "brands": "lor\u00e9al",
+    "categories_tags": [
+      "is:shampo"
+    ],
+    "code": "3600523583348",
+    "countries_tags": [
+      "en:iceland"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/358/3348/front_is.4.400.jpg",
+    "lang": "is",
+    "product_name": "elvital",
+    "quantity": "250"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [],
+    "code": "3600523900824",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/390/0824/front_de.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "de",
+    "product_name": "Duschgel",
+    "quantity": ""
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:Hair Serum"
+    ],
+    "code": "8901526541317",
+    "countries_tags": [
+      "en:india"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/890/152/654/1317/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Loss Unlimited Primrose Oil",
+    "quantity": "125 ml"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600522877301",
+    "countries_tags": [
+      "en:\u0641\u0631\u0633\u0627\u0646 \u200f"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/287/7301/front_xx.9.400.jpg",
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "Loreal",
+    "quantity": "1"
+  },
+  {
+    "brands": "Loreal",
+    "code": "30164185",
+    "countries_tags": [
+      "en:finland"
+    ],
+    "ingredients_text": "",
+    "lang": "xx",
+    "product_name": "Bambi",
+    "quantity": ""
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:Cream cleanser"
+    ],
+    "code": "0065338066951",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/006/533/806/6951/front_en.4.400.jpg",
+    "ingredients_text": "sensible NGREDIENTS: 691929/29 AQUA \u2022 SODIUM COCOYL GLYCINATE \u2022 COCO-BETAINE GLYCERM KRILATES/CIO-30 ALKYLACRYLATE CROSSPOLYMER ASCORBYL GLUCOSIDE \u2022 BENZYLALCOHO - RARI EHYLPARABEN \u2022 GLYCOL DISTEARATE \u2022 LINALOOL \u2022 METHYLPARABEN \u2022 - JAM \u2022 PHENOXYETHANOL \u2022 POLYQUATERNIUM-39 \u2022 SALICYLIC ACID \u2022 SOUM BENZOATE \u2022 SODIUM HYDROXIDE \u2022 PARFUM F.I.L#C16232/5 RECINMEN",
+    "lang": "en",
+    "product_name": "Revitalift",
+    "quantity": "150ml"
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600523606801",
+    "countries_tags": [
+      "en:bulgaria"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/360/6801/front_en.4.400.jpg",
+    "lang": "en",
+    "product_name": "Magic shampoo invisible dry shampoo",
+    "quantity": "200ml"
+  },
+  {
+    "brands": "loreal",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants",
+      "en:incorrect-product-type",
+      "en:non-food-products",
+      "en:open-beauty-facts"
+    ],
+    "code": "3600523715398",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/371/5398/front_de.4.400.jpg",
+    "ingredients_text": "isOBUTANE, ALUMNUM CHLOROHYDRATE, dIMETHICONE, ISOPROPYL PALMITATE, TRIEtHYL CITRATE, PARFUM/ FRAGRANCE, STeaRALKONIUM BENTONITE, DIMETHICONOL, LimonENE, UliNALOOL, ZINC PCA, ALPHA-ISOMETHYl, PERLITE, CITRAL, COUMARIN, HEXYLCNNAMAl",
+    "lang": "de",
+    "product_name": "invincible man",
+    "quantity": "150 ml"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [
+      "en:hygiene",
+      "en:deodorants"
+    ],
+    "code": "3600522632573",
+    "countries_tags": [
+      "en:germany"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/263/2573/front_de.4.400.jpg",
+    "ingredients_text": "ISOBUTANE, AQUA WATER, DIMETHICONE, ALUMINUM CHLOROHYD RATE, PARFUM/FRAGRANCE, PHENOXYETHANCL DIMETHICONOL LIMONENE, LINALOOL, PERLITE DISTEARDIMONIUM HECTORITE, CITRAL, LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE COUMARIN, HEXYL CINNAMAL",
+    "lang": "de",
+    "product_name": "Loreal Men Expert",
+    "quantity": "150 ml"
+  },
+  {
+    "brands": "Loreal",
+    "code": "0071249356579",
+    "countries_tags": [
+      "en:canada"
+    ],
+    "lang": "fr",
+    "product_name": "Pure sucre scrub",
+    "quantity": ""
+  },
+  {
+    "brands": "Loreal",
+    "code": "3600521802571",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/180/2571/front_fr.3.400.jpg",
+    "lang": "fr",
+    "product_name": "Sublime sun",
+    "quantity": "1"
+  },
+  {
+    "brands": "Loreal",
+    "categories_tags": [],
+    "code": "3600522349068",
+    "countries_tags": [
+      "en:france"
+    ],
+    "image_url": "https://images.openbeautyfacts.org/images/products/360/052/234/9068/front_fr.3.400.jpg",
+    "ingredients_text": "",
+    "lang": "fr",
+    "product_name": "Elseve total repair extreme ",
+    "quantity": "400ml"
+  }
+]
